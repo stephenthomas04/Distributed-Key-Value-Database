@@ -1,0 +1,7 @@
+.tools/
+bin/
+data/
+*.exe
+__pycache__/
+results/*.log
+results-local/

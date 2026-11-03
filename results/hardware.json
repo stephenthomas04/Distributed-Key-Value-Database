@@ -1,0 +1,10 @@
+{
+  "cpu": "13th Gen Intel(R) Core(TM) i7-1355U",
+  "physical_cores": 10,
+  "logical_cpus": 12,
+  "memory_bytes": 14554005504,
+  "disk_model": "SKHynix_HFS001TEJ4X112N",
+  "disk_type": "SSD",
+  "disk_bytes": 1024209543168,
+  "source": "Windows CIM and Get-PhysicalDisk on the measurement host"
+}

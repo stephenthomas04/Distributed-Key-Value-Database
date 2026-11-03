@@ -1,0 +1,9 @@
+{
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+  "logical_cpus": 12,
+  "deployment": "3 native processes on one host; loopback TCP; temporary local storage",
+  "method": "closed-loop, one shared gRPC connection; 100 keys; 256-byte values; 100 warmup operations; preload excluded",
+  "recovery_method": "kill request to successful verified read through new leader, including CLI startup and 50ms polling; catch-up setup excluded",
+  "recovery_median_ms": 1817.352799931541
+}

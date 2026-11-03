@@ -1,0 +1,19 @@
+syntax = "proto3";
+package kv.v1;
+option go_package = "github.com/stephenthomas04/DistributedKeyValueDatabase/api;api";
+
+service KeyValue {
+  rpc Put(PutRequest) returns (Empty);
+  rpc Get(KeyRequest) returns (GetResponse);
+  rpc Delete(KeyRequest) returns (Empty);
+  rpc Status(Empty) returns (StatusResponse);
+}
+message Empty {}
+message PutRequest { string key = 1; bytes value = 2; }
+message KeyRequest { string key = 1; }
+message GetResponse { bytes value = 1; }
+message StatusResponse {
+  string node_id = 1;
+  string leader_address = 2;
+  string state = 3;
+}

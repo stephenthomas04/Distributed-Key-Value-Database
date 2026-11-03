@@ -1,0 +1,6022 @@
+{
+  "arch": "amd64",
+  "concurrency": 16,
+  "duration_seconds": 1.6647176,
+  "errors": 0,
+  "go_version": "go1.26.1",
+  "keys": 100,
+  "latency_population": "successful operations only",
+  "logical_cpus": 12,
+  "mode": "write",
+  "operations": 2000,
+  "os": "windows",
+  "p50_ms": 12.966,
+  "p95_ms": 19.5707,
+  "p99_ms": 27.7301,
+  "samples": [
+    {
+      "latency_ms": 10.0344
+    },
+    {
+      "latency_ms": 6.4718
+    },
+    {
+      "latency_ms": 10.0344
+    },
+    {
+      "latency_ms": 10.0344
+    },
+    {
+      "latency_ms": 10.0344
+    },
+    {
+      "latency_ms": 10.0344
+    },
+    {
+      "latency_ms": 10.0344
+    },
+    {
+      "latency_ms": 10.0344
+    },
+    {
+      "latency_ms": 10.0344
+    },
+    {
+      "latency_ms": 10.0344
+    },
+    {
+      "latency_ms": 9.4373
+    },
+    {
+      "latency_ms": 9.4373
+    },
+    {
+      "latency_ms": 9.4373
+    },
+    {
+      "latency_ms": 9.4373
+    },
+    {
+      "latency_ms": 9.4373
+    },
+    {
+      "latency_ms": 9.4373
+    },
+    {
+      "latency_ms": 6.7133
+    },
+    {
+      "latency_ms": 8.2582
+    },
+    {
+      "latency_ms": 11.2003
+    },
+    {
+      "latency_ms": 11.876
+    },
+    {
+      "latency_ms": 11.2003
+    },
+    {
+      "latency_ms": 11.2003
+    },
+    {
+      "latency_ms": 11.876
+    },
+    {
+      "latency_ms": 11.876
+    },
+    {
+      "latency_ms": 11.2003
+    },
+    {
+      "latency_ms": 11.876
+    },
+    {
+      "latency_ms": 11.2003
+    },
+    {
+      "latency_ms": 11.2003
+    },
+    {
+      "latency_ms": 11.2003
+    },
+    {
+      "latency_ms": 11.2003
+    },
+    {
+      "latency_ms": 11.2003
+    },
+    {
+      "latency_ms": 11.876
+    },
+    {
+      "latency_ms": 8.7253
+    },
+    {
+      "latency_ms": 6.7177
+    },
+    {
+      "latency_ms": 7.5398
+    },
+    {
+      "latency_ms": 12.1458
+    },
+    {
+      "latency_ms": 14.2104
+    },
+    {
+      "latency_ms": 14.2104
+    },
+    {
+      "latency_ms": 14.9709
+    },
+    {
+      "latency_ms": 12.1458
+    },
+    {
+      "latency_ms": 14.2104
+    },
+    {
+      "latency_ms": 14.9709
+    },
+    {
+      "latency_ms": 14.2104
+    },
+    {
+      "latency_ms": 14.2952
+    },
+    {
+      "latency_ms": 14.2952
+    },
+    {
+      "latency_ms": 11.4701
+    },
+    {
+      "latency_ms": 14.2952
+    },
+    {
+      "latency_ms": 13.5347
+    },
+    {
+      "latency_ms": 14.2952
+    },
+    {
+      "latency_ms": 14.0218
+    },
+    {
+      "latency_ms": 17.2794
+    },
+    {
+      "latency_ms": 14.4092
+    },
+    {
+      "latency_ms": 12.6734
+    },
+    {
+      "latency_ms": 14.4092
+    },
+    {
+      "latency_ms": 12.3446
+    },
+    {
+      "latency_ms": 12.9787
+    },
+    {
+      "latency_ms": 12.9787
+    },
+    {
+      "latency_ms": 12.3446
+    },
+    {
+      "latency_ms": 12.9787
+    },
+    {
+      "latency_ms": 12.2182
+    },
+    {
+      "latency_ms": 12.2182
+    },
+    {
+      "latency_ms": 11.5841
+    },
+    {
+      "latency_ms": 12.2182
+    },
+    {
+      "latency_ms": 12.2182
+    },
+    {
+      "latency_ms": 11.5841
+    },
+    {
+      "latency_ms": 13.0633
+    },
+    {
+      "latency_ms": 18.6731
+    },
+    {
+      "latency_ms": 13.7122
+    },
+    {
+      "latency_ms": 16.9373
+    },
+    {
+      "latency_ms": 16.9373
+    },
+    {
+      "latency_ms": 16.9373
+    },
+    {
+      "latency_ms": 16.9373
+    },
+    {
+      "latency_ms": 16.9373
+    },
+    {
+      "latency_ms": 16.9373
+    },
+    {
+      "latency_ms": 16.3032
+    },
+    {
+      "latency_ms": 16.8406
+    },
+    {
+      "latency_ms": 16.8406
+    },
+    {
+      "latency_ms": 16.3032
+    },
+    {
+      "latency_ms": 16.3032
+    },
+    {
+      "latency_ms": 16.3032
+    },
+    {
+      "latency_ms": 16.3032
+    },
+    {
+      "latency_ms": 13.169
+    },
+    {
+      "latency_ms": 15.1184
+    },
+    {
+      "latency_ms": 10.1575
+    },
+    {
+      "latency_ms": 10.1575
+    },
+    {
+      "latency_ms": 16.3786
+    },
+    {
+      "latency_ms": 16.3786
+    },
+    {
+      "latency_ms": 16.3786
+    },
+    {
+      "latency_ms": 15.7798
+    },
+    {
+      "latency_ms": 16.3786
+    },
+    {
+      "latency_ms": 16.3786
+    },
+    {
+      "latency_ms": 16.3786
+    },
+    {
+      "latency_ms": 15.7798
+    },
+    {
+      "latency_ms": 16.3786
+    },
+    {
+      "latency_ms": 15.7798
+    },
+    {
+      "latency_ms": 15.2424
+    },
+    {
+      "latency_ms": 15.8412
+    },
+    {
+      "latency_ms": 15.8412
+    },
+    {
+      "latency_ms": 14.2951
+    },
+    {
+      "latency_ms": 14.8907
+    },
+    {
+      "latency_ms": 14.8907
+    },
+    {
+      "latency_ms": 10.4681
+    },
+    {
+      "latency_ms": 10.4681
+    },
+    {
+      "latency_ms": 19.5707
+    },
+    {
+      "latency_ms": 19.0403
+    },
+    {
+      "latency_ms": 18.4415
+    },
+    {
+      "latency_ms": 18.4415
+    },
+    {
+      "latency_ms": 18.4415
+    },
+    {
+      "latency_ms": 18.4415
+    },
+    {
+      "latency_ms": 18.4415
+    },
+    {
+      "latency_ms": 18.9719
+    },
+    {
+      "latency_ms": 18.9719
+    },
+    {
+      "latency_ms": 18.4415
+    },
+    {
+      "latency_ms": 9.2103
+    },
+    {
+      "latency_ms": 10.8979
+    },
+    {
+      "latency_ms": 10.3023
+    },
+    {
+      "latency_ms": 9.7719
+    },
+    {
+      "latency_ms": 21.0657
+    },
+    {
+      "latency_ms": 20.4067
+    },
+    {
+      "latency_ms": 20.4067
+    },
+    {
+      "latency_ms": 11.8345
+    },
+    {
+      "latency_ms": 11.8345
+    },
+    {
+      "latency_ms": 11.8345
+    },
+    {
+      "latency_ms": 11.8345
+    },
+    {
+      "latency_ms": 11.8345
+    },
+    {
+      "latency_ms": 11.8345
+    },
+    {
+      "latency_ms": 11.8345
+    },
+    {
+      "latency_ms": 20.3703
+    },
+    {
+      "latency_ms": 11.3041
+    },
+    {
+      "latency_ms": 11.3041
+    },
+    {
+      "latency_ms": 11.3041
+    },
+    {
+      "latency_ms": 11.3041
+    },
+    {
+      "latency_ms": 19.8399
+    },
+    {
+      "latency_ms": 9.264
+    },
+    {
+      "latency_ms": 9.264
+    },
+    {
+      "latency_ms": 17.7327
+    },
+    {
+      "latency_ms": 17.7327
+    },
+    {
+      "latency_ms": 9.264
+    },
+    {
+      "latency_ms": 8.5358
+    },
+    {
+      "latency_ms": 8.5358
+    },
+    {
+      "latency_ms": 17.7327
+    },
+    {
+      "latency_ms": 8.5358
+    },
+    {
+      "latency_ms": 17.7327
+    },
+    {
+      "latency_ms": 17.7327
+    },
+    {
+      "latency_ms": 17.7327
+    },
+    {
+      "latency_ms": 17.7327
+    },
+    {
+      "latency_ms": 17.7327
+    },
+    {
+      "latency_ms": 9.7365
+    },
+    {
+      "latency_ms": 9.7365
+    },
+    {
+      "latency_ms": 9.1969
+    },
+    {
+      "latency_ms": 9.7365
+    },
+    {
+      "latency_ms": 21.1404
+    },
+    {
+      "latency_ms": 20.4122
+    },
+    {
+      "latency_ms": 20.4122
+    },
+    {
+      "latency_ms": 20.4122
+    },
+    {
+      "latency_ms": 24.9706
+    },
+    {
+      "latency_ms": 24.9706
+    },
+    {
+      "latency_ms": 18.5574
+    },
+    {
+      "latency_ms": 18.5574
+    },
+    {
+      "latency_ms": 18.5574
+    },
+    {
+      "latency_ms": 18.5574
+    },
+    {
+      "latency_ms": 18.5574
+    },
+    {
+      "latency_ms": 18.5574
+    },
+    {
+      "latency_ms": 18.5574
+    },
+    {
+      "latency_ms": 17.2322
+    },
+    {
+      "latency_ms": 17.2322
+    },
+    {
+      "latency_ms": 18.0178
+    },
+    {
+      "latency_ms": 13.0271
+    },
+    {
+      "latency_ms": 13.0271
+    },
+    {
+      "latency_ms": 13.0271
+    },
+    {
+      "latency_ms": 13.0271
+    },
+    {
+      "latency_ms": 16.9515
+    },
+    {
+      "latency_ms": 16.9515
+    },
+    {
+      "latency_ms": 16.1659
+    },
+    {
+      "latency_ms": 16.1659
+    },
+    {
+      "latency_ms": 16.1659
+    },
+    {
+      "latency_ms": 16.1659
+    },
+    {
+      "latency_ms": 16.1659
+    },
+    {
+      "latency_ms": 16.1659
+    },
+    {
+      "latency_ms": 16.1659
+    },
+    {
+      "latency_ms": 15.8292
+    },
+    {
+      "latency_ms": 9.7527
+    },
+    {
+      "latency_ms": 9.7527
+    },
+    {
+      "latency_ms": 15.1926
+    },
+    {
+      "latency_ms": 15.1926
+    },
+    {
+      "latency_ms": 15.1926
+    },
+    {
+      "latency_ms": 15.1926
+    },
+    {
+      "latency_ms": 12.447
+    },
+    {
+      "latency_ms": 12.1103
+    },
+    {
+      "latency_ms": 13.4546
+    },
+    {
+      "latency_ms": 13.4546
+    },
+    {
+      "latency_ms": 12.1103
+    },
+    {
+      "latency_ms": 13.4546
+    },
+    {
+      "latency_ms": 12.1103
+    },
+    {
+      "latency_ms": 13.4546
+    },
+    {
+      "latency_ms": 12.1103
+    },
+    {
+      "latency_ms": 13.4546
+    },
+    {
+      "latency_ms": 12.1103
+    },
+    {
+      "latency_ms": 12.1103
+    },
+    {
+      "latency_ms": 15.3491
+    },
+    {
+      "latency_ms": 15.3491
+    },
+    {
+      "latency_ms": 15.3491
+    },
+    {
+      "latency_ms": 15.3491
+    },
+    {
+      "latency_ms": 9.9763
+    },
+    {
+      "latency_ms": 18.4576
+    },
+    {
+      "latency_ms": 18.4576
+    },
+    {
+      "latency_ms": 18.4576
+    },
+    {
+      "latency_ms": 18.4576
+    },
+    {
+      "latency_ms": 18.4576
+    },
+    {
+      "latency_ms": 18.4576
+    },
+    {
+      "latency_ms": 17.1133
+    },
+    {
+      "latency_ms": 17.1133
+    },
+    {
+      "latency_ms": 16.7231
+    },
+    {
+      "latency_ms": 17.1133
+    },
+    {
+      "latency_ms": 17.1133
+    },
+    {
+      "latency_ms": 9.7789
+    },
+    {
+      "latency_ms": 10.2902
+    },
+    {
+      "latency_ms": 9.7789
+    },
+    {
+      "latency_ms": 9.7789
+    },
+    {
+      "latency_ms": 14.5909
+    },
+    {
+      "latency_ms": 13.8548
+    },
+    {
+      "latency_ms": 13.4646
+    },
+    {
+      "latency_ms": 13.4646
+    },
+    {
+      "latency_ms": 13.4646
+    },
+    {
+      "latency_ms": 13.4646
+    },
+    {
+      "latency_ms": 13.4646
+    },
+    {
+      "latency_ms": 13.4646
+    },
+    {
+      "latency_ms": 13.4646
+    },
+    {
+      "latency_ms": 13.4646
+    },
+    {
+      "latency_ms": 13.4646
+    },
+    {
+      "latency_ms": 13.4646
+    },
+    {
+      "latency_ms": 13.4646
+    },
+    {
+      "latency_ms": 17.0928
+    },
+    {
+      "latency_ms": 17.0928
+    },
+    {
+      "latency_ms": 12.9533
+    },
+    {
+      "latency_ms": 14.234
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 13.6685
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 12.966
+    },
+    {
+      "latency_ms": 13.1899
+    },
+    {
+      "latency_ms": 13.1899
+    },
+    {
+      "latency_ms": 15.5592
+    },
+    {
+      "latency_ms": 14.2529
+    },
+    {
+      "latency_ms": 14.2529
+    },
+    {
+      "latency_ms": 9.4722
+    },
+    {
+      "latency_ms": 14.2529
+    },
+    {
+      "latency_ms": 14.2529
+    },
+    {
+      "latency_ms": 14.2529
+    },
+    {
+      "latency_ms": 14.2529
+    },
+    {
+      "latency_ms": 14.2529
+    },
+    {
+      "latency_ms": 14.2529
+    },
+    {
+      "latency_ms": 14.2529
+    },
+    {
+      "latency_ms": 14.2529
+    },
+    {
+      "latency_ms": 14.2529
+    },
+    {
+      "latency_ms": 13.5504
+    },
+    {
+      "latency_ms": 13.4423
+    },
+    {
+      "latency_ms": 13.4423
+    },
+    {
+      "latency_ms": 13.426
+    },
+    {
+      "latency_ms": 13.9949
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 14.6768
+    },
+    {
+      "latency_ms": 16.9443
+    },
+    {
+      "latency_ms": 16.9443
+    },
+    {
+      "latency_ms": 11.3405
+    },
+    {
+      "latency_ms": 16.032
+    },
+    {
+      "latency_ms": 13.8642
+    },
+    {
+      "latency_ms": 14.2569
+    },
+    {
+      "latency_ms": 14.2569
+    },
+    {
+      "latency_ms": 14.2569
+    },
+    {
+      "latency_ms": 14.2569
+    },
+    {
+      "latency_ms": 14.2569
+    },
+    {
+      "latency_ms": 14.2569
+    },
+    {
+      "latency_ms": 14.2569
+    },
+    {
+      "latency_ms": 14.2569
+    },
+    {
+      "latency_ms": 14.2569
+    },
+    {
+      "latency_ms": 14.2569
+    },
+    {
+      "latency_ms": 14.2569
+    },
+    {
+      "latency_ms": 14.8795
+    },
+    {
+      "latency_ms": 14.8795
+    },
+    {
+      "latency_ms": 14.8795
+    },
+    {
+      "latency_ms": 15.2172
+    },
+    {
+      "latency_ms": 12.6212
+    },
+    {
+      "latency_ms": 12.2285
+    },
+    {
+      "latency_ms": 12.2285
+    },
+    {
+      "latency_ms": 12.2285
+    },
+    {
+      "latency_ms": 12.2285
+    },
+    {
+      "latency_ms": 12.2285
+    },
+    {
+      "latency_ms": 12.2285
+    },
+    {
+      "latency_ms": 12.2285
+    },
+    {
+      "latency_ms": 12.2285
+    },
+    {
+      "latency_ms": 12.2285
+    },
+    {
+      "latency_ms": 12.2285
+    },
+    {
+      "latency_ms": 12.2285
+    },
+    {
+      "latency_ms": 11.0451
+    },
+    {
+      "latency_ms": 10.5334
+    },
+    {
+      "latency_ms": 10.5334
+    },
+    {
+      "latency_ms": 10.1444
+    },
+    {
+      "latency_ms": 14.8767
+    },
+    {
+      "latency_ms": 14.8767
+    },
+    {
+      "latency_ms": 15.6504
+    },
+    {
+      "latency_ms": 14.8767
+    },
+    {
+      "latency_ms": 14.8767
+    },
+    {
+      "latency_ms": 15.6504
+    },
+    {
+      "latency_ms": 15.6504
+    },
+    {
+      "latency_ms": 15.6504
+    },
+    {
+      "latency_ms": 14.8767
+    },
+    {
+      "latency_ms": 14.8767
+    },
+    {
+      "latency_ms": 15.6504
+    },
+    {
+      "latency_ms": 14.8767
+    },
+    {
+      "latency_ms": 18.1334
+    },
+    {
+      "latency_ms": 18.1334
+    },
+    {
+      "latency_ms": 17.6217
+    },
+    {
+      "latency_ms": 12.9243
+    },
+    {
+      "latency_ms": 15.9116
+    },
+    {
+      "latency_ms": 15.9116
+    },
+    {
+      "latency_ms": 15.9116
+    },
+    {
+      "latency_ms": 15.9116
+    },
+    {
+      "latency_ms": 15.9116
+    },
+    {
+      "latency_ms": 15.9116
+    },
+    {
+      "latency_ms": 15.9116
+    },
+    {
+      "latency_ms": 14.6269
+    },
+    {
+      "latency_ms": 15.1379
+    },
+    {
+      "latency_ms": 15.1379
+    },
+    {
+      "latency_ms": 15.1379
+    },
+    {
+      "latency_ms": 15.1379
+    },
+    {
+      "latency_ms": 7.9074
+    },
+    {
+      "latency_ms": 13.4484
+    },
+    {
+      "latency_ms": 13.4484
+    },
+    {
+      "latency_ms": 14.1348
+    },
+    {
+      "latency_ms": 13.5482
+    },
+    {
+      "latency_ms": 13.5482
+    },
+    {
+      "latency_ms": 13.6564
+    },
+    {
+      "latency_ms": 13.6564
+    },
+    {
+      "latency_ms": 14.5708
+    },
+    {
+      "latency_ms": 14.5708
+    },
+    {
+      "latency_ms": 14.5708
+    },
+    {
+      "latency_ms": 14.5708
+    },
+    {
+      "latency_ms": 14.5708
+    },
+    {
+      "latency_ms": 14.5708
+    },
+    {
+      "latency_ms": 14.5708
+    },
+    {
+      "latency_ms": 13.6564
+    },
+    {
+      "latency_ms": 14.5708
+    },
+    {
+      "latency_ms": 16.5444
+    },
+    {
+      "latency_ms": 16.5444
+    },
+    {
+      "latency_ms": 15.858
+    },
+    {
+      "latency_ms": 8.5372
+    },
+    {
+      "latency_ms": 15.4611
+    },
+    {
+      "latency_ms": 16.306
+    },
+    {
+      "latency_ms": 16.306
+    },
+    {
+      "latency_ms": 16.306
+    },
+    {
+      "latency_ms": 15.3916
+    },
+    {
+      "latency_ms": 15.9019
+    },
+    {
+      "latency_ms": 15.9019
+    },
+    {
+      "latency_ms": 15.3916
+    },
+    {
+      "latency_ms": 15.3916
+    },
+    {
+      "latency_ms": 15.9019
+    },
+    {
+      "latency_ms": 15.3916
+    },
+    {
+      "latency_ms": 16.5592
+    },
+    {
+      "latency_ms": 13.1323
+    },
+    {
+      "latency_ms": 12.1157
+    },
+    {
+      "latency_ms": 12.1157
+    },
+    {
+      "latency_ms": 12.1157
+    },
+    {
+      "latency_ms": 17.8788
+    },
+    {
+      "latency_ms": 16.4147
+    },
+    {
+      "latency_ms": 17.0897
+    },
+    {
+      "latency_ms": 16.4147
+    },
+    {
+      "latency_ms": 17.0897
+    },
+    {
+      "latency_ms": 17.0897
+    },
+    {
+      "latency_ms": 16.4147
+    },
+    {
+      "latency_ms": 17.0897
+    },
+    {
+      "latency_ms": 15.9044
+    },
+    {
+      "latency_ms": 16.5794
+    },
+    {
+      "latency_ms": 15.9044
+    },
+    {
+      "latency_ms": 15.2471
+    },
+    {
+      "latency_ms": 29.476
+    },
+    {
+      "latency_ms": 29.476
+    },
+    {
+      "latency_ms": 29.476
+    },
+    {
+      "latency_ms": 28.4594
+    },
+    {
+      "latency_ms": 27.7301
+    },
+    {
+      "latency_ms": 27.7301
+    },
+    {
+      "latency_ms": 27.7301
+    },
+    {
+      "latency_ms": 27.7301
+    },
+    {
+      "latency_ms": 27.7301
+    },
+    {
+      "latency_ms": 27.7301
+    },
+    {
+      "latency_ms": 30.1581
+    },
+    {
+      "latency_ms": 30.2278
+    },
+    {
+      "latency_ms": 30.2278
+    },
+    {
+      "latency_ms": 27.0551
+    },
+    {
+      "latency_ms": 27.0551
+    },
+    {
+      "latency_ms": 27.0551
+    },
+    {
+      "latency_ms": 19.1323
+    },
+    {
+      "latency_ms": 19.1323
+    },
+    {
+      "latency_ms": 14.1138
+    },
+    {
+      "latency_ms": 14.1138
+    },
+    {
+      "latency_ms": 14.223
+    },
+    {
+      "latency_ms": 22.5338
+    },
+    {
+      "latency_ms": 22.5338
+    },
+    {
+      "latency_ms": 22.5338
+    },
+    {
+      "latency_ms": 22.5338
+    },
+    {
+      "latency_ms": 14.223
+    },
+    {
+      "latency_ms": 12.7349
+    },
+    {
+      "latency_ms": 14.223
+    },
+    {
+      "latency_ms": 13.7005
+    },
+    {
+      "latency_ms": 20.1058
+    },
+    {
+      "latency_ms": 11.0503
+    },
+    {
+      "latency_ms": 11.0503
+    },
+    {
+      "latency_ms": 9.5622
+    },
+    {
+      "latency_ms": 10.5278
+    },
+    {
+      "latency_ms": 14.9072
+    },
+    {
+      "latency_ms": 14.9072
+    },
+    {
+      "latency_ms": 15.9123
+    },
+    {
+      "latency_ms": 15.9123
+    },
+    {
+      "latency_ms": 14.9467
+    },
+    {
+      "latency_ms": 14.9467
+    },
+    {
+      "latency_ms": 14.4242
+    },
+    {
+      "latency_ms": 14.4242
+    },
+    {
+      "latency_ms": 14.4242
+    },
+    {
+      "latency_ms": 14.4242
+    },
+    {
+      "latency_ms": 14.4242
+    },
+    {
+      "latency_ms": 14.2217
+    },
+    {
+      "latency_ms": 14.2217
+    },
+    {
+      "latency_ms": 14.2217
+    },
+    {
+      "latency_ms": 13.5859
+    },
+    {
+      "latency_ms": 14.2217
+    },
+    {
+      "latency_ms": 13.6571
+    },
+    {
+      "latency_ms": 13.6571
+    },
+    {
+      "latency_ms": 21.5042
+    },
+    {
+      "latency_ms": 12.1656
+    },
+    {
+      "latency_ms": 12.1656
+    },
+    {
+      "latency_ms": 21.5042
+    },
+    {
+      "latency_ms": 22.1029
+    },
+    {
+      "latency_ms": 22.1029
+    },
+    {
+      "latency_ms": 21.5042
+    },
+    {
+      "latency_ms": 22.1029
+    },
+    {
+      "latency_ms": 22.1029
+    },
+    {
+      "latency_ms": 14.0317
+    },
+    {
+      "latency_ms": 13.9946
+    },
+    {
+      "latency_ms": 13.9946
+    },
+    {
+      "latency_ms": 13.9946
+    },
+    {
+      "latency_ms": 13.9946
+    },
+    {
+      "latency_ms": 13.9946
+    },
+    {
+      "latency_ms": 13.9946
+    },
+    {
+      "latency_ms": 17.8371
+    },
+    {
+      "latency_ms": 17.8371
+    },
+    {
+      "latency_ms": 13.3091
+    },
+    {
+      "latency_ms": 17.8344
+    },
+    {
+      "latency_ms": 17.8344
+    },
+    {
+      "latency_ms": 17.8344
+    },
+    {
+      "latency_ms": 17.2357
+    },
+    {
+      "latency_ms": 17.2357
+    },
+    {
+      "latency_ms": 17.2357
+    },
+    {
+      "latency_ms": 17.2357
+    },
+    {
+      "latency_ms": 17.2357
+    },
+    {
+      "latency_ms": 17.2357
+    },
+    {
+      "latency_ms": 17.2357
+    },
+    {
+      "latency_ms": 17.2357
+    },
+    {
+      "latency_ms": 17.2357
+    },
+    {
+      "latency_ms": 17.2357
+    },
+    {
+      "latency_ms": 13.906
+    },
+    {
+      "latency_ms": 13.906
+    },
+    {
+      "latency_ms": 21.3209
+    },
+    {
+      "latency_ms": 16.7956
+    },
+    {
+      "latency_ms": 24.5934
+    },
+    {
+      "latency_ms": 24.5934
+    },
+    {
+      "latency_ms": 24.5934
+    },
+    {
+      "latency_ms": 24.5934
+    },
+    {
+      "latency_ms": 24.5934
+    },
+    {
+      "latency_ms": 24.5934
+    },
+    {
+      "latency_ms": 24.5934
+    },
+    {
+      "latency_ms": 25.1591
+    },
+    {
+      "latency_ms": 24.5934
+    },
+    {
+      "latency_ms": 24.5934
+    },
+    {
+      "latency_ms": 24.5934
+    },
+    {
+      "latency_ms": 24.5934
+    },
+    {
+      "latency_ms": 33.0666
+    },
+    {
+      "latency_ms": 33.0666
+    },
+    {
+      "latency_ms": 26.9968
+    },
+    {
+      "latency_ms": 26.2598
+    },
+    {
+      "latency_ms": 26.4962
+    },
+    {
+      "latency_ms": 36.4996
+    },
+    {
+      "latency_ms": 36.4996
+    },
+    {
+      "latency_ms": 36.4996
+    },
+    {
+      "latency_ms": 36.4996
+    },
+    {
+      "latency_ms": 26.4962
+    },
+    {
+      "latency_ms": 26.4962
+    },
+    {
+      "latency_ms": 26.4962
+    },
+    {
+      "latency_ms": 26.4962
+    },
+    {
+      "latency_ms": 26.4962
+    },
+    {
+      "latency_ms": 26.4962
+    },
+    {
+      "latency_ms": 25.9305
+    },
+    {
+      "latency_ms": 23.4563
+    },
+    {
+      "latency_ms": 23.4563
+    },
+    {
+      "latency_ms": 25.6909
+    },
+    {
+      "latency_ms": 25.747
+    },
+    {
+      "latency_ms": 33.462
+    },
+    {
+      "latency_ms": 33.462
+    },
+    {
+      "latency_ms": 25.8143
+    },
+    {
+      "latency_ms": 25.8143
+    },
+    {
+      "latency_ms": 25.8143
+    },
+    {
+      "latency_ms": 25.8143
+    },
+    {
+      "latency_ms": 25.8143
+    },
+    {
+      "latency_ms": 25.8143
+    },
+    {
+      "latency_ms": 23.4586
+    },
+    {
+      "latency_ms": 23.4586
+    },
+    {
+      "latency_ms": 23.4586
+    },
+    {
+      "latency_ms": 23.4586
+    },
+    {
+      "latency_ms": 23.4586
+    },
+    {
+      "latency_ms": 23.4586
+    },
+    {
+      "latency_ms": 18.64
+    },
+    {
+      "latency_ms": 17.8469
+    },
+    {
+      "latency_ms": 21.831
+    },
+    {
+      "latency_ms": 21.831
+    },
+    {
+      "latency_ms": 21.831
+    },
+    {
+      "latency_ms": 21.831
+    },
+    {
+      "latency_ms": 21.831
+    },
+    {
+      "latency_ms": 13.4371
+    },
+    {
+      "latency_ms": 21.49
+    },
+    {
+      "latency_ms": 20.4931
+    },
+    {
+      "latency_ms": 21.49
+    },
+    {
+      "latency_ms": 21.49
+    },
+    {
+      "latency_ms": 22.0163
+    },
+    {
+      "latency_ms": 21.49
+    },
+    {
+      "latency_ms": 21.49
+    },
+    {
+      "latency_ms": 21.49
+    },
+    {
+      "latency_ms": 18.6553
+    },
+    {
+      "latency_ms": 18.6553
+    },
+    {
+      "latency_ms": 20.4908
+    },
+    {
+      "latency_ms": 16.2401
+    },
+    {
+      "latency_ms": 16.2401
+    },
+    {
+      "latency_ms": 16.2401
+    },
+    {
+      "latency_ms": 16.2401
+    },
+    {
+      "latency_ms": 16.2401
+    },
+    {
+      "latency_ms": 11.0344
+    },
+    {
+      "latency_ms": 14.7026
+    },
+    {
+      "latency_ms": 14.7026
+    },
+    {
+      "latency_ms": 14.7026
+    },
+    {
+      "latency_ms": 14.7026
+    },
+    {
+      "latency_ms": 14.7026
+    },
+    {
+      "latency_ms": 14.7026
+    },
+    {
+      "latency_ms": 14.7026
+    },
+    {
+      "latency_ms": 14.7026
+    },
+    {
+      "latency_ms": 14.1763
+    },
+    {
+      "latency_ms": 10.472
+    },
+    {
+      "latency_ms": 12.7128
+    },
+    {
+      "latency_ms": 12.1219
+    },
+    {
+      "latency_ms": 12.7128
+    },
+    {
+      "latency_ms": 8.6231
+    },
+    {
+      "latency_ms": 12.7128
+    },
+    {
+      "latency_ms": 11.0178
+    },
+    {
+      "latency_ms": 9.3565
+    },
+    {
+      "latency_ms": 9.3565
+    },
+    {
+      "latency_ms": 14.0349
+    },
+    {
+      "latency_ms": 14.0349
+    },
+    {
+      "latency_ms": 14.0349
+    },
+    {
+      "latency_ms": 14.0349
+    },
+    {
+      "latency_ms": 14.0349
+    },
+    {
+      "latency_ms": 14.0349
+    },
+    {
+      "latency_ms": 14.0349
+    },
+    {
+      "latency_ms": 13.4753
+    },
+    {
+      "latency_ms": 11.7371
+    },
+    {
+      "latency_ms": 13.346
+    },
+    {
+      "latency_ms": 13.346
+    },
+    {
+      "latency_ms": 12.1694
+    },
+    {
+      "latency_ms": 12.7551
+    },
+    {
+      "latency_ms": 12.7551
+    },
+    {
+      "latency_ms": 10.3422
+    },
+    {
+      "latency_ms": 10.3422
+    },
+    {
+      "latency_ms": 8.6306
+    },
+    {
+      "latency_ms": 13.1791
+    },
+    {
+      "latency_ms": 8.6306
+    },
+    {
+      "latency_ms": 13.1791
+    },
+    {
+      "latency_ms": 13.1791
+    },
+    {
+      "latency_ms": 13.1791
+    },
+    {
+      "latency_ms": 13.1791
+    },
+    {
+      "latency_ms": 13.1791
+    },
+    {
+      "latency_ms": 12.623
+    },
+    {
+      "latency_ms": 11.8517
+    },
+    {
+      "latency_ms": 8.3091
+    },
+    {
+      "latency_ms": 11.266
+    },
+    {
+      "latency_ms": 11.266
+    },
+    {
+      "latency_ms": 10.6864
+    },
+    {
+      "latency_ms": 10.6864
+    },
+    {
+      "latency_ms": 11.266
+    },
+    {
+      "latency_ms": 12.8845
+    },
+    {
+      "latency_ms": 12.8845
+    },
+    {
+      "latency_ms": 8.9717
+    },
+    {
+      "latency_ms": 14.128
+    },
+    {
+      "latency_ms": 14.128
+    },
+    {
+      "latency_ms": 14.128
+    },
+    {
+      "latency_ms": 14.128
+    },
+    {
+      "latency_ms": 8.9717
+    },
+    {
+      "latency_ms": 14.128
+    },
+    {
+      "latency_ms": 13.3342
+    },
+    {
+      "latency_ms": 11.5236
+    },
+    {
+      "latency_ms": 11.5236
+    },
+    {
+      "latency_ms": 10.944
+    },
+    {
+      "latency_ms": 10.944
+    },
+    {
+      "latency_ms": 10.944
+    },
+    {
+      "latency_ms": 10.944
+    },
+    {
+      "latency_ms": 13.558
+    },
+    {
+      "latency_ms": 13.558
+    },
+    {
+      "latency_ms": 12.9223
+    },
+    {
+      "latency_ms": 12.9223
+    },
+    {
+      "latency_ms": 15.3504
+    },
+    {
+      "latency_ms": 15.3504
+    },
+    {
+      "latency_ms": 11.1558
+    },
+    {
+      "latency_ms": 15.3504
+    },
+    {
+      "latency_ms": 15.3504
+    },
+    {
+      "latency_ms": 15.3504
+    },
+    {
+      "latency_ms": 14.7837
+    },
+    {
+      "latency_ms": 14.7837
+    },
+    {
+      "latency_ms": 14.7837
+    },
+    {
+      "latency_ms": 14.7837
+    },
+    {
+      "latency_ms": 14.7837
+    },
+    {
+      "latency_ms": 14.7837
+    },
+    {
+      "latency_ms": 8.1344
+    },
+    {
+      "latency_ms": 8.1344
+    },
+    {
+      "latency_ms": 11.6011
+    },
+    {
+      "latency_ms": 11.1616
+    },
+    {
+      "latency_ms": 12.3538
+    },
+    {
+      "latency_ms": 13.8761
+    },
+    {
+      "latency_ms": 13.8761
+    },
+    {
+      "latency_ms": 11.0681
+    },
+    {
+      "latency_ms": 13.8761
+    },
+    {
+      "latency_ms": 13.8761
+    },
+    {
+      "latency_ms": 13.8761
+    },
+    {
+      "latency_ms": 13.8761
+    },
+    {
+      "latency_ms": 13.8761
+    },
+    {
+      "latency_ms": 13.8761
+    },
+    {
+      "latency_ms": 13.8761
+    },
+    {
+      "latency_ms": 13.8761
+    },
+    {
+      "latency_ms": 13.3261
+    },
+    {
+      "latency_ms": 13.3261
+    },
+    {
+      "latency_ms": 15.4279
+    },
+    {
+      "latency_ms": 14.9884
+    },
+    {
+      "latency_ms": 10.8459
+    },
+    {
+      "latency_ms": 8.5404
+    },
+    {
+      "latency_ms": 14.9121
+    },
+    {
+      "latency_ms": 14.9121
+    },
+    {
+      "latency_ms": 14.9121
+    },
+    {
+      "latency_ms": 14.9121
+    },
+    {
+      "latency_ms": 8.62
+    },
+    {
+      "latency_ms": 8.62
+    },
+    {
+      "latency_ms": 14.9121
+    },
+    {
+      "latency_ms": 14.9121
+    },
+    {
+      "latency_ms": 14.9121
+    },
+    {
+      "latency_ms": 14.9121
+    },
+    {
+      "latency_ms": 8.62
+    },
+    {
+      "latency_ms": 8.62
+    },
+    {
+      "latency_ms": 9.7831
+    },
+    {
+      "latency_ms": 13.741
+    },
+    {
+      "latency_ms": 13.17
+    },
+    {
+      "latency_ms": 12.5666
+    },
+    {
+      "latency_ms": 15.5279
+    },
+    {
+      "latency_ms": 15.5279
+    },
+    {
+      "latency_ms": 15.5279
+    },
+    {
+      "latency_ms": 15.5279
+    },
+    {
+      "latency_ms": 13.2426
+    },
+    {
+      "latency_ms": 13.8236
+    },
+    {
+      "latency_ms": 9.2358
+    },
+    {
+      "latency_ms": 13.8236
+    },
+    {
+      "latency_ms": 9.2358
+    },
+    {
+      "latency_ms": 13.8236
+    },
+    {
+      "latency_ms": 13.8236
+    },
+    {
+      "latency_ms": 9.2358
+    },
+    {
+      "latency_ms": 13.8236
+    },
+    {
+      "latency_ms": 12.2101
+    },
+    {
+      "latency_ms": 12.2101
+    },
+    {
+      "latency_ms": 11.6391
+    },
+    {
+      "latency_ms": 8.6838
+    },
+    {
+      "latency_ms": 8.6838
+    },
+    {
+      "latency_ms": 12.7875
+    },
+    {
+      "latency_ms": 12.7875
+    },
+    {
+      "latency_ms": 12.7875
+    },
+    {
+      "latency_ms": 12.7875
+    },
+    {
+      "latency_ms": 12.7875
+    },
+    {
+      "latency_ms": 9.3591
+    },
+    {
+      "latency_ms": 8.7781
+    },
+    {
+      "latency_ms": 8.7781
+    },
+    {
+      "latency_ms": 8.7781
+    },
+    {
+      "latency_ms": 9.3971
+    },
+    {
+      "latency_ms": 8.7781
+    },
+    {
+      "latency_ms": 10.5808
+    },
+    {
+      "latency_ms": 10.5808
+    },
+    {
+      "latency_ms": 10.5808
+    },
+    {
+      "latency_ms": 14.6613
+    },
+    {
+      "latency_ms": 14.6613
+    },
+    {
+      "latency_ms": 13.9629
+    },
+    {
+      "latency_ms": 10.5576
+    },
+    {
+      "latency_ms": 10.5576
+    },
+    {
+      "latency_ms": 13.9629
+    },
+    {
+      "latency_ms": 13.9629
+    },
+    {
+      "latency_ms": 13.3845
+    },
+    {
+      "latency_ms": 13.3845
+    },
+    {
+      "latency_ms": 13.3845
+    },
+    {
+      "latency_ms": 13.3845
+    },
+    {
+      "latency_ms": 13.3845
+    },
+    {
+      "latency_ms": 12.7655
+    },
+    {
+      "latency_ms": 11.5141
+    },
+    {
+      "latency_ms": 12.1012
+    },
+    {
+      "latency_ms": 12.1012
+    },
+    {
+      "latency_ms": 11.3738
+    },
+    {
+      "latency_ms": 10.7921
+    },
+    {
+      "latency_ms": 10.7921
+    },
+    {
+      "latency_ms": 11.3738
+    },
+    {
+      "latency_ms": 11.3952
+    },
+    {
+      "latency_ms": 11.3952
+    },
+    {
+      "latency_ms": 11.3952
+    },
+    {
+      "latency_ms": 11.3952
+    },
+    {
+      "latency_ms": 11.3952
+    },
+    {
+      "latency_ms": 11.3952
+    },
+    {
+      "latency_ms": 11.3952
+    },
+    {
+      "latency_ms": 11.3952
+    },
+    {
+      "latency_ms": 11.3952
+    },
+    {
+      "latency_ms": 14.3053
+    },
+    {
+      "latency_ms": 13.7182
+    },
+    {
+      "latency_ms": 13.7182
+    },
+    {
+      "latency_ms": 9.2075
+    },
+    {
+      "latency_ms": 11.648
+    },
+    {
+      "latency_ms": 11.6392
+    },
+    {
+      "latency_ms": 11.0663
+    },
+    {
+      "latency_ms": 13.5884
+    },
+    {
+      "latency_ms": 13.5884
+    },
+    {
+      "latency_ms": 13.5884
+    },
+    {
+      "latency_ms": 13.5884
+    },
+    {
+      "latency_ms": 13.5884
+    },
+    {
+      "latency_ms": 13.5884
+    },
+    {
+      "latency_ms": 13.5884
+    },
+    {
+      "latency_ms": 13.5884
+    },
+    {
+      "latency_ms": 13.5884
+    },
+    {
+      "latency_ms": 16.1976
+    },
+    {
+      "latency_ms": 16.1976
+    },
+    {
+      "latency_ms": 16.1976
+    },
+    {
+      "latency_ms": 15.6143
+    },
+    {
+      "latency_ms": 13.7317
+    },
+    {
+      "latency_ms": 13.7317
+    },
+    {
+      "latency_ms": 13.1588
+    },
+    {
+      "latency_ms": 14.3106
+    },
+    {
+      "latency_ms": 14.3106
+    },
+    {
+      "latency_ms": 14.3106
+    },
+    {
+      "latency_ms": 14.3106
+    },
+    {
+      "latency_ms": 14.3106
+    },
+    {
+      "latency_ms": 14.3106
+    },
+    {
+      "latency_ms": 14.3106
+    },
+    {
+      "latency_ms": 14.3106
+    },
+    {
+      "latency_ms": 14.3106
+    },
+    {
+      "latency_ms": 14.0223
+    },
+    {
+      "latency_ms": 14.0223
+    },
+    {
+      "latency_ms": 14.0223
+    },
+    {
+      "latency_ms": 14.0223
+    },
+    {
+      "latency_ms": 13.4644
+    },
+    {
+      "latency_ms": 13.4644
+    },
+    {
+      "latency_ms": 13.4644
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 16.1101
+    },
+    {
+      "latency_ms": 16.1101
+    },
+    {
+      "latency_ms": 9.7853
+    },
+    {
+      "latency_ms": 16.1101
+    },
+    {
+      "latency_ms": 16.1101
+    },
+    {
+      "latency_ms": 10.4537
+    },
+    {
+      "latency_ms": 9.7853
+    },
+    {
+      "latency_ms": 16.8388
+    },
+    {
+      "latency_ms": 9.9081
+    },
+    {
+      "latency_ms": 9.9081
+    },
+    {
+      "latency_ms": 16.8388
+    },
+    {
+      "latency_ms": 16.8388
+    },
+    {
+      "latency_ms": 16.8388
+    },
+    {
+      "latency_ms": 16.8388
+    },
+    {
+      "latency_ms": 16.8388
+    },
+    {
+      "latency_ms": 9.9081
+    },
+    {
+      "latency_ms": 13.2555
+    },
+    {
+      "latency_ms": 13.2555
+    },
+    {
+      "latency_ms": 12.5871
+    },
+    {
+      "latency_ms": 8.0638
+    },
+    {
+      "latency_ms": 14.1556
+    },
+    {
+      "latency_ms": 14.7382
+    },
+    {
+      "latency_ms": 14.7382
+    },
+    {
+      "latency_ms": 14.7382
+    },
+    {
+      "latency_ms": 8.0638
+    },
+    {
+      "latency_ms": 14.1556
+    },
+    {
+      "latency_ms": 17.7964
+    },
+    {
+      "latency_ms": 17.7964
+    },
+    {
+      "latency_ms": 17.7964
+    },
+    {
+      "latency_ms": 17.7964
+    },
+    {
+      "latency_ms": 17.7964
+    },
+    {
+      "latency_ms": 17.7964
+    },
+    {
+      "latency_ms": 17.7964
+    },
+    {
+      "latency_ms": 12.4509
+    },
+    {
+      "latency_ms": 17.7964
+    },
+    {
+      "latency_ms": 16.6633
+    },
+    {
+      "latency_ms": 16.6633
+    },
+    {
+      "latency_ms": 10.5715
+    },
+    {
+      "latency_ms": 14.4961
+    },
+    {
+      "latency_ms": 13.9135
+    },
+    {
+      "latency_ms": 13.9135
+    },
+    {
+      "latency_ms": 13.9135
+    },
+    {
+      "latency_ms": 12.6871
+    },
+    {
+      "latency_ms": 9.322
+    },
+    {
+      "latency_ms": 13.3681
+    },
+    {
+      "latency_ms": 12.8
+    },
+    {
+      "latency_ms": 9.322
+    },
+    {
+      "latency_ms": 13.3681
+    },
+    {
+      "latency_ms": 13.3681
+    },
+    {
+      "latency_ms": 13.3681
+    },
+    {
+      "latency_ms": 13.3681
+    },
+    {
+      "latency_ms": 13.3681
+    },
+    {
+      "latency_ms": 13.3681
+    },
+    {
+      "latency_ms": 13.3681
+    },
+    {
+      "latency_ms": 12.5038
+    },
+    {
+      "latency_ms": 12.5038
+    },
+    {
+      "latency_ms": 12.5038
+    },
+    {
+      "latency_ms": 12.5038
+    },
+    {
+      "latency_ms": 11.5539
+    },
+    {
+      "latency_ms": 14.724
+    },
+    {
+      "latency_ms": 14.724
+    },
+    {
+      "latency_ms": 16.9981
+    },
+    {
+      "latency_ms": 16.43
+    },
+    {
+      "latency_ms": 11.2779
+    },
+    {
+      "latency_ms": 16.43
+    },
+    {
+      "latency_ms": 11.2779
+    },
+    {
+      "latency_ms": 11.2779
+    },
+    {
+      "latency_ms": 16.43
+    },
+    {
+      "latency_ms": 16.43
+    },
+    {
+      "latency_ms": 11.2779
+    },
+    {
+      "latency_ms": 13.3697
+    },
+    {
+      "latency_ms": 13.3697
+    },
+    {
+      "latency_ms": 13.3697
+    },
+    {
+      "latency_ms": 13.3697
+    },
+    {
+      "latency_ms": 12.0772
+    },
+    {
+      "latency_ms": 14.206
+    },
+    {
+      "latency_ms": 14.206
+    },
+    {
+      "latency_ms": 13.606
+    },
+    {
+      "latency_ms": 13.606
+    },
+    {
+      "latency_ms": 13.606
+    },
+    {
+      "latency_ms": 13.606
+    },
+    {
+      "latency_ms": 11.9156
+    },
+    {
+      "latency_ms": 11.9156
+    },
+    {
+      "latency_ms": 14.1711
+    },
+    {
+      "latency_ms": 11.9156
+    },
+    {
+      "latency_ms": 14.1711
+    },
+    {
+      "latency_ms": 11.9156
+    },
+    {
+      "latency_ms": 14.1711
+    },
+    {
+      "latency_ms": 14.1711
+    },
+    {
+      "latency_ms": 14.1711
+    },
+    {
+      "latency_ms": 12.9965
+    },
+    {
+      "latency_ms": 9.9018
+    },
+    {
+      "latency_ms": 13.9624
+    },
+    {
+      "latency_ms": 13.9624
+    },
+    {
+      "latency_ms": 13.9624
+    },
+    {
+      "latency_ms": 13.9624
+    },
+    {
+      "latency_ms": 9.9018
+    },
+    {
+      "latency_ms": 10.5007
+    },
+    {
+      "latency_ms": 10.5007
+    },
+    {
+      "latency_ms": 10.5007
+    },
+    {
+      "latency_ms": 10.5007
+    },
+    {
+      "latency_ms": 14.1414
+    },
+    {
+      "latency_ms": 14.1414
+    },
+    {
+      "latency_ms": 14.1414
+    },
+    {
+      "latency_ms": 14.1414
+    },
+    {
+      "latency_ms": 14.1414
+    },
+    {
+      "latency_ms": 14.1414
+    },
+    {
+      "latency_ms": 9.9568
+    },
+    {
+      "latency_ms": 9.9568
+    },
+    {
+      "latency_ms": 11.6586
+    },
+    {
+      "latency_ms": 11.6586
+    },
+    {
+      "latency_ms": 11.6586
+    },
+    {
+      "latency_ms": 11.6586
+    },
+    {
+      "latency_ms": 11.6586
+    },
+    {
+      "latency_ms": 11.6586
+    },
+    {
+      "latency_ms": 11.6586
+    },
+    {
+      "latency_ms": 11.6586
+    },
+    {
+      "latency_ms": 8.6352
+    },
+    {
+      "latency_ms": 8.6352
+    },
+    {
+      "latency_ms": 15.4536
+    },
+    {
+      "latency_ms": 15.4536
+    },
+    {
+      "latency_ms": 15.4536
+    },
+    {
+      "latency_ms": 8.6352
+    },
+    {
+      "latency_ms": 15.4536
+    },
+    {
+      "latency_ms": 15.4536
+    },
+    {
+      "latency_ms": 9.6912
+    },
+    {
+      "latency_ms": 17.1567
+    },
+    {
+      "latency_ms": 17.1567
+    },
+    {
+      "latency_ms": 17.1567
+    },
+    {
+      "latency_ms": 17.1567
+    },
+    {
+      "latency_ms": 17.1567
+    },
+    {
+      "latency_ms": 17.1567
+    },
+    {
+      "latency_ms": 17.1567
+    },
+    {
+      "latency_ms": 14.2839
+    },
+    {
+      "latency_ms": 14.2839
+    },
+    {
+      "latency_ms": 14.2839
+    },
+    {
+      "latency_ms": 13.8443
+    },
+    {
+      "latency_ms": 13.8443
+    },
+    {
+      "latency_ms": 13.8443
+    },
+    {
+      "latency_ms": 13.8443
+    },
+    {
+      "latency_ms": 13.8443
+    },
+    {
+      "latency_ms": 13.8443
+    },
+    {
+      "latency_ms": 15.4603
+    },
+    {
+      "latency_ms": 16.0313
+    },
+    {
+      "latency_ms": 10.3266
+    },
+    {
+      "latency_ms": 16.0313
+    },
+    {
+      "latency_ms": 15.4603
+    },
+    {
+      "latency_ms": 15.4603
+    },
+    {
+      "latency_ms": 16.0313
+    },
+    {
+      "latency_ms": 16.0313
+    },
+    {
+      "latency_ms": 16.0313
+    },
+    {
+      "latency_ms": 15.4603
+    },
+    {
+      "latency_ms": 9.6525
+    },
+    {
+      "latency_ms": 9.6525
+    },
+    {
+      "latency_ms": 9.6525
+    },
+    {
+      "latency_ms": 9.6525
+    },
+    {
+      "latency_ms": 15.5335
+    },
+    {
+      "latency_ms": 9.6525
+    },
+    {
+      "latency_ms": 11.5857
+    },
+    {
+      "latency_ms": 11.1018
+    },
+    {
+      "latency_ms": 13.9165
+    },
+    {
+      "latency_ms": 14.4992
+    },
+    {
+      "latency_ms": 13.9165
+    },
+    {
+      "latency_ms": 13.9282
+    },
+    {
+      "latency_ms": 13.9282
+    },
+    {
+      "latency_ms": 13.9282
+    },
+    {
+      "latency_ms": 13.9282
+    },
+    {
+      "latency_ms": 13.9282
+    },
+    {
+      "latency_ms": 13.9282
+    },
+    {
+      "latency_ms": 13.9282
+    },
+    {
+      "latency_ms": 13.9282
+    },
+    {
+      "latency_ms": 13.9282
+    },
+    {
+      "latency_ms": 13.9282
+    },
+    {
+      "latency_ms": 9.7205
+    },
+    {
+      "latency_ms": 12.5452
+    },
+    {
+      "latency_ms": 12.3884
+    },
+    {
+      "latency_ms": 11.8254
+    },
+    {
+      "latency_ms": 12.4165
+    },
+    {
+      "latency_ms": 11.2427
+    },
+    {
+      "latency_ms": 11.8338
+    },
+    {
+      "latency_ms": 11.8338
+    },
+    {
+      "latency_ms": 11.8338
+    },
+    {
+      "latency_ms": 11.2427
+    },
+    {
+      "latency_ms": 11.8338
+    },
+    {
+      "latency_ms": 11.8338
+    },
+    {
+      "latency_ms": 11.8338
+    },
+    {
+      "latency_ms": 11.8338
+    },
+    {
+      "latency_ms": 11.8338
+    },
+    {
+      "latency_ms": 11.8338
+    },
+    {
+      "latency_ms": 13.9192
+    },
+    {
+      "latency_ms": 12.2216
+    },
+    {
+      "latency_ms": 10.797
+    },
+    {
+      "latency_ms": 8.5453
+    },
+    {
+      "latency_ms": 8.5453
+    },
+    {
+      "latency_ms": 8.5453
+    },
+    {
+      "latency_ms": 12.8117
+    },
+    {
+      "latency_ms": 12.8117
+    },
+    {
+      "latency_ms": 12.8117
+    },
+    {
+      "latency_ms": 12.8117
+    },
+    {
+      "latency_ms": 13.1845
+    },
+    {
+      "latency_ms": 13.1845
+    },
+    {
+      "latency_ms": 12.8117
+    },
+    {
+      "latency_ms": 13.1845
+    },
+    {
+      "latency_ms": 13.1845
+    },
+    {
+      "latency_ms": 12.8117
+    },
+    {
+      "latency_ms": 9.5324
+    },
+    {
+      "latency_ms": 12.9974
+    },
+    {
+      "latency_ms": 12.1585
+    },
+    {
+      "latency_ms": 12.1585
+    },
+    {
+      "latency_ms": 12.1585
+    },
+    {
+      "latency_ms": 12.1585
+    },
+    {
+      "latency_ms": 11.2135
+    },
+    {
+      "latency_ms": 11.2135
+    },
+    {
+      "latency_ms": 11.7967
+    },
+    {
+      "latency_ms": 11.7967
+    },
+    {
+      "latency_ms": 12.4453
+    },
+    {
+      "latency_ms": 12.0725
+    },
+    {
+      "latency_ms": 12.0725
+    },
+    {
+      "latency_ms": 12.0725
+    },
+    {
+      "latency_ms": 11.4239
+    },
+    {
+      "latency_ms": 11.4239
+    },
+    {
+      "latency_ms": 11.4174
+    },
+    {
+      "latency_ms": 11.4526
+    },
+    {
+      "latency_ms": 12.1886
+    },
+    {
+      "latency_ms": 12.1886
+    },
+    {
+      "latency_ms": 12.1886
+    },
+    {
+      "latency_ms": 12.1886
+    },
+    {
+      "latency_ms": 8.8538
+    },
+    {
+      "latency_ms": 13.4597
+    },
+    {
+      "latency_ms": 12.8765
+    },
+    {
+      "latency_ms": 12.8765
+    },
+    {
+      "latency_ms": 12.8765
+    },
+    {
+      "latency_ms": 12.8765
+    },
+    {
+      "latency_ms": 12.2279
+    },
+    {
+      "latency_ms": 12.2279
+    },
+    {
+      "latency_ms": 12.2279
+    },
+    {
+      "latency_ms": 12.2279
+    },
+    {
+      "latency_ms": 12.2279
+    },
+    {
+      "latency_ms": 8.7189
+    },
+    {
+      "latency_ms": 11.4789
+    },
+    {
+      "latency_ms": 11.4789
+    },
+    {
+      "latency_ms": 11.4789
+    },
+    {
+      "latency_ms": 11.4789
+    },
+    {
+      "latency_ms": 10.9012
+    },
+    {
+      "latency_ms": 12.7991
+    },
+    {
+      "latency_ms": 12.7991
+    },
+    {
+      "latency_ms": 12.7991
+    },
+    {
+      "latency_ms": 12.2635
+    },
+    {
+      "latency_ms": 12.2635
+    },
+    {
+      "latency_ms": 12.7991
+    },
+    {
+      "latency_ms": 12.2635
+    },
+    {
+      "latency_ms": 12.7991
+    },
+    {
+      "latency_ms": 12.7991
+    },
+    {
+      "latency_ms": 12.7991
+    },
+    {
+      "latency_ms": 12.2293
+    },
+    {
+      "latency_ms": 8.7369
+    },
+    {
+      "latency_ms": 11.6498
+    },
+    {
+      "latency_ms": 11.6498
+    },
+    {
+      "latency_ms": 11.6498
+    },
+    {
+      "latency_ms": 11.6498
+    },
+    {
+      "latency_ms": 9.7107
+    },
+    {
+      "latency_ms": 8.0065
+    },
+    {
+      "latency_ms": 9.7107
+    },
+    {
+      "latency_ms": 9.1751
+    },
+    {
+      "latency_ms": 9.1751
+    },
+    {
+      "latency_ms": 9.1751
+    },
+    {
+      "latency_ms": 9.1751
+    },
+    {
+      "latency_ms": 9.1751
+    },
+    {
+      "latency_ms": 9.1751
+    },
+    {
+      "latency_ms": 9.1751
+    },
+    {
+      "latency_ms": 9.1751
+    },
+    {
+      "latency_ms": 11.8532
+    },
+    {
+      "latency_ms": 8.9403
+    },
+    {
+      "latency_ms": 8.9403
+    },
+    {
+      "latency_ms": 8.9403
+    },
+    {
+      "latency_ms": 8.9403
+    },
+    {
+      "latency_ms": 10.9377
+    },
+    {
+      "latency_ms": 11.5443
+    },
+    {
+      "latency_ms": 11.5443
+    },
+    {
+      "latency_ms": 11.5443
+    },
+    {
+      "latency_ms": 11.5443
+    },
+    {
+      "latency_ms": 11.5443
+    },
+    {
+      "latency_ms": 11.5443
+    },
+    {
+      "latency_ms": 11.5443
+    },
+    {
+      "latency_ms": 11.5443
+    },
+    {
+      "latency_ms": 11.5443
+    },
+    {
+      "latency_ms": 11.5443
+    },
+    {
+      "latency_ms": 8.9452
+    },
+    {
+      "latency_ms": 14.1954
+    },
+    {
+      "latency_ms": 12.9734
+    },
+    {
+      "latency_ms": 12.9734
+    },
+    {
+      "latency_ms": 14.1954
+    },
+    {
+      "latency_ms": 8.6511
+    },
+    {
+      "latency_ms": 7.5623
+    },
+    {
+      "latency_ms": 7.5623
+    },
+    {
+      "latency_ms": 7.5623
+    },
+    {
+      "latency_ms": 7.5623
+    },
+    {
+      "latency_ms": 7.5623
+    },
+    {
+      "latency_ms": 7.5623
+    },
+    {
+      "latency_ms": 7.5623
+    },
+    {
+      "latency_ms": 7.5623
+    },
+    {
+      "latency_ms": 7.5623
+    },
+    {
+      "latency_ms": 7.5623
+    },
+    {
+      "latency_ms": 9.7523
+    },
+    {
+      "latency_ms": 11.2504
+    },
+    {
+      "latency_ms": 14.3991
+    },
+    {
+      "latency_ms": 14.3991
+    },
+    {
+      "latency_ms": 13.1771
+    },
+    {
+      "latency_ms": 13.7441
+    },
+    {
+      "latency_ms": 13.7441
+    },
+    {
+      "latency_ms": 13.7441
+    },
+    {
+      "latency_ms": 13.7441
+    },
+    {
+      "latency_ms": 13.1771
+    },
+    {
+      "latency_ms": 13.7441
+    },
+    {
+      "latency_ms": 13.1771
+    },
+    {
+      "latency_ms": 13.1771
+    },
+    {
+      "latency_ms": 13.7441
+    },
+    {
+      "latency_ms": 13.7441
+    },
+    {
+      "latency_ms": 13.1771
+    },
+    {
+      "latency_ms": 9.242
+    },
+    {
+      "latency_ms": 11.9657
+    },
+    {
+      "latency_ms": 13.9071
+    },
+    {
+      "latency_ms": 8.817
+    },
+    {
+      "latency_ms": 14.4719
+    },
+    {
+      "latency_ms": 14.4719
+    },
+    {
+      "latency_ms": 14.4719
+    },
+    {
+      "latency_ms": 14.4719
+    },
+    {
+      "latency_ms": 14.4719
+    },
+    {
+      "latency_ms": 13.9049
+    },
+    {
+      "latency_ms": 13.9049
+    },
+    {
+      "latency_ms": 13.3401
+    },
+    {
+      "latency_ms": 13.9049
+    },
+    {
+      "latency_ms": 13.9049
+    },
+    {
+      "latency_ms": 13.3401
+    },
+    {
+      "latency_ms": 13.9049
+    },
+    {
+      "latency_ms": 13.3401
+    },
+    {
+      "latency_ms": 10.8105
+    },
+    {
+      "latency_ms": 6.2311
+    },
+    {
+      "latency_ms": 9.7335
+    },
+    {
+      "latency_ms": 5.7204
+    },
+    {
+      "latency_ms": 9.7335
+    },
+    {
+      "latency_ms": 9.7335
+    },
+    {
+      "latency_ms": 9.1687
+    },
+    {
+      "latency_ms": 9.1687
+    },
+    {
+      "latency_ms": 9.1687
+    },
+    {
+      "latency_ms": 9.1687
+    },
+    {
+      "latency_ms": 9.1687
+    },
+    {
+      "latency_ms": 9.1687
+    },
+    {
+      "latency_ms": 9.1687
+    },
+    {
+      "latency_ms": 9.1687
+    },
+    {
+      "latency_ms": 9.1687
+    },
+    {
+      "latency_ms": 9.1687
+    },
+    {
+      "latency_ms": 8.5925
+    },
+    {
+      "latency_ms": 8.0058
+    },
+    {
+      "latency_ms": 8.5781
+    },
+    {
+      "latency_ms": 9.1595
+    },
+    {
+      "latency_ms": 9.1595
+    },
+    {
+      "latency_ms": 9.1595
+    },
+    {
+      "latency_ms": 9.1595
+    },
+    {
+      "latency_ms": 9.1595
+    },
+    {
+      "latency_ms": 9.1595
+    },
+    {
+      "latency_ms": 9.7215
+    },
+    {
+      "latency_ms": 9.1595
+    },
+    {
+      "latency_ms": 9.1595
+    },
+    {
+      "latency_ms": 9.7215
+    },
+    {
+      "latency_ms": 9.1595
+    },
+    {
+      "latency_ms": 9.1595
+    },
+    {
+      "latency_ms": 9.1595
+    },
+    {
+      "latency_ms": 9.7215
+    },
+    {
+      "latency_ms": 5.7288
+    },
+    {
+      "latency_ms": 11.6753
+    },
+    {
+      "latency_ms": 7.0808
+    },
+    {
+      "latency_ms": 10.698
+    },
+    {
+      "latency_ms": 10.698
+    },
+    {
+      "latency_ms": 12.2093
+    },
+    {
+      "latency_ms": 10.698
+    },
+    {
+      "latency_ms": 10.698
+    },
+    {
+      "latency_ms": 10.698
+    },
+    {
+      "latency_ms": 12.2093
+    },
+    {
+      "latency_ms": 10.698
+    },
+    {
+      "latency_ms": 10.698
+    },
+    {
+      "latency_ms": 12.2093
+    },
+    {
+      "latency_ms": 10.136
+    },
+    {
+      "latency_ms": 10.136
+    },
+    {
+      "latency_ms": 11.6473
+    },
+    {
+      "latency_ms": 10.136
+    },
+    {
+      "latency_ms": 7.2823
+    },
+    {
+      "latency_ms": 10.3774
+    },
+    {
+      "latency_ms": 8.9021
+    },
+    {
+      "latency_ms": 14.0671
+    },
+    {
+      "latency_ms": 14.0671
+    },
+    {
+      "latency_ms": 14.0671
+    },
+    {
+      "latency_ms": 14.0671
+    },
+    {
+      "latency_ms": 14.0671
+    },
+    {
+      "latency_ms": 14.0671
+    },
+    {
+      "latency_ms": 14.0671
+    },
+    {
+      "latency_ms": 14.0671
+    },
+    {
+      "latency_ms": 14.0671
+    },
+    {
+      "latency_ms": 12.5558
+    },
+    {
+      "latency_ms": 12.5558
+    },
+    {
+      "latency_ms": 12.5558
+    },
+    {
+      "latency_ms": 12.5558
+    },
+    {
+      "latency_ms": 10.402
+    },
+    {
+      "latency_ms": 7.8197
+    },
+    {
+      "latency_ms": 10.5779
+    },
+    {
+      "latency_ms": 5.4129
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 5.4129
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 12.3924
+    },
+    {
+      "latency_ms": 11.8796
+    },
+    {
+      "latency_ms": 6.9795
+    },
+    {
+      "latency_ms": 13.3842
+    },
+    {
+      "latency_ms": 13.3842
+    },
+    {
+      "latency_ms": 12.0438
+    },
+    {
+      "latency_ms": 6.4047
+    },
+    {
+      "latency_ms": 6.4047
+    },
+    {
+      "latency_ms": 6.4047
+    },
+    {
+      "latency_ms": 6.4047
+    },
+    {
+      "latency_ms": 6.4047
+    },
+    {
+      "latency_ms": 12.0438
+    },
+    {
+      "latency_ms": 6.4047
+    },
+    {
+      "latency_ms": 12.0438
+    },
+    {
+      "latency_ms": 12.0438
+    },
+    {
+      "latency_ms": 12.0438
+    },
+    {
+      "latency_ms": 12.0438
+    },
+    {
+      "latency_ms": 12.0438
+    },
+    {
+      "latency_ms": 12.0438
+    },
+    {
+      "latency_ms": 6.1769
+    },
+    {
+      "latency_ms": 9.6238
+    },
+    {
+      "latency_ms": 9.6238
+    },
+    {
+      "latency_ms": 9.6238
+    },
+    {
+      "latency_ms": 9.6238
+    },
+    {
+      "latency_ms": 9.6238
+    },
+    {
+      "latency_ms": 9.6238
+    },
+    {
+      "latency_ms": 9.6238
+    },
+    {
+      "latency_ms": 9.4062
+    },
+    {
+      "latency_ms": 12.8785
+    },
+    {
+      "latency_ms": 12.8785
+    },
+    {
+      "latency_ms": 12.8785
+    },
+    {
+      "latency_ms": 14.0877
+    },
+    {
+      "latency_ms": 12.8785
+    },
+    {
+      "latency_ms": 12.8785
+    },
+    {
+      "latency_ms": 12.8785
+    },
+    {
+      "latency_ms": 12.3407
+    },
+    {
+      "latency_ms": 10.103
+    },
+    {
+      "latency_ms": 10.103
+    },
+    {
+      "latency_ms": 10.103
+    },
+    {
+      "latency_ms": 10.103
+    },
+    {
+      "latency_ms": 10.103
+    },
+    {
+      "latency_ms": 10.103
+    },
+    {
+      "latency_ms": 10.103
+    },
+    {
+      "latency_ms": 10.4492
+    },
+    {
+      "latency_ms": 7.5675
+    },
+    {
+      "latency_ms": 14.4849
+    },
+    {
+      "latency_ms": 14.4849
+    },
+    {
+      "latency_ms": 14.4849
+    },
+    {
+      "latency_ms": 14.4849
+    },
+    {
+      "latency_ms": 14.4849
+    },
+    {
+      "latency_ms": 14.4849
+    },
+    {
+      "latency_ms": 13.2757
+    },
+    {
+      "latency_ms": 13.2757
+    },
+    {
+      "latency_ms": 13.2757
+    },
+    {
+      "latency_ms": 13.2757
+    },
+    {
+      "latency_ms": 13.2757
+    },
+    {
+      "latency_ms": 13.2757
+    },
+    {
+      "latency_ms": 13.2757
+    },
+    {
+      "latency_ms": 13.2757
+    },
+    {
+      "latency_ms": 11.5931
+    },
+    {
+      "latency_ms": 13.787
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 11.9227
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 12.4863
+    },
+    {
+      "latency_ms": 15.3061
+    },
+    {
+      "latency_ms": 12.5216
+    },
+    {
+      "latency_ms": 11.3779
+    },
+    {
+      "latency_ms": 10.8143
+    },
+    {
+      "latency_ms": 10.8143
+    },
+    {
+      "latency_ms": 10.8143
+    },
+    {
+      "latency_ms": 10.2853
+    },
+    {
+      "latency_ms": 10.8143
+    },
+    {
+      "latency_ms": 10.8143
+    },
+    {
+      "latency_ms": 10.8143
+    },
+    {
+      "latency_ms": 10.8143
+    },
+    {
+      "latency_ms": 10.8143
+    },
+    {
+      "latency_ms": 10.8143
+    },
+    {
+      "latency_ms": 10.8143
+    },
+    {
+      "latency_ms": 10.8143
+    },
+    {
+      "latency_ms": 10.2853
+    },
+    {
+      "latency_ms": 9.9133
+    },
+    {
+      "latency_ms": 9.9133
+    },
+    {
+      "latency_ms": 7.167
+    },
+    {
+      "latency_ms": 11.618
+    },
+    {
+      "latency_ms": 10.5228
+    },
+    {
+      "latency_ms": 11.089
+    },
+    {
+      "latency_ms": 11.089
+    },
+    {
+      "latency_ms": 10.5228
+    },
+    {
+      "latency_ms": 11.089
+    },
+    {
+      "latency_ms": 11.089
+    },
+    {
+      "latency_ms": 11.089
+    },
+    {
+      "latency_ms": 11.089
+    },
+    {
+      "latency_ms": 11.089
+    },
+    {
+      "latency_ms": 11.089
+    },
+    {
+      "latency_ms": 11.089
+    },
+    {
+      "latency_ms": 11.089
+    },
+    {
+      "latency_ms": 7.9805
+    },
+    {
+      "latency_ms": 7.9805
+    },
+    {
+      "latency_ms": 13.7294
+    },
+    {
+      "latency_ms": 9.8446
+    },
+    {
+      "latency_ms": 10.5389
+    },
+    {
+      "latency_ms": 9.9727
+    },
+    {
+      "latency_ms": 9.9727
+    },
+    {
+      "latency_ms": 9.9727
+    },
+    {
+      "latency_ms": 9.9727
+    },
+    {
+      "latency_ms": 9.9727
+    },
+    {
+      "latency_ms": 9.9727
+    },
+    {
+      "latency_ms": 9.9727
+    },
+    {
+      "latency_ms": 9.9727
+    },
+    {
+      "latency_ms": 9.9727
+    },
+    {
+      "latency_ms": 9.9727
+    },
+    {
+      "latency_ms": 9.9727
+    },
+    {
+      "latency_ms": 13.9099
+    },
+    {
+      "latency_ms": 13.9099
+    },
+    {
+      "latency_ms": 13.248
+    },
+    {
+      "latency_ms": 7.5269
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.5537
+    },
+    {
+      "latency_ms": 12.2654
+    },
+    {
+      "latency_ms": 12.2654
+    },
+    {
+      "latency_ms": 12.2654
+    },
+    {
+      "latency_ms": 7.1085
+    },
+    {
+      "latency_ms": 9.9505
+    },
+    {
+      "latency_ms": 9.9505
+    },
+    {
+      "latency_ms": 9.9505
+    },
+    {
+      "latency_ms": 10.4839
+    },
+    {
+      "latency_ms": 10.4839
+    },
+    {
+      "latency_ms": 10.4839
+    },
+    {
+      "latency_ms": 10.4839
+    },
+    {
+      "latency_ms": 10.4839
+    },
+    {
+      "latency_ms": 10.4839
+    },
+    {
+      "latency_ms": 10.4839
+    },
+    {
+      "latency_ms": 10.4839
+    },
+    {
+      "latency_ms": 10.4839
+    },
+    {
+      "latency_ms": 13.4399
+    },
+    {
+      "latency_ms": 9.1613
+    },
+    {
+      "latency_ms": 13.4399
+    },
+    {
+      "latency_ms": 12.8757
+    },
+    {
+      "latency_ms": 10.9244
+    },
+    {
+      "latency_ms": 10.9244
+    },
+    {
+      "latency_ms": 10.9244
+    },
+    {
+      "latency_ms": 10.391
+    },
+    {
+      "latency_ms": 10.391
+    },
+    {
+      "latency_ms": 10.391
+    },
+    {
+      "latency_ms": 10.391
+    },
+    {
+      "latency_ms": 10.391
+    },
+    {
+      "latency_ms": 10.391
+    },
+    {
+      "latency_ms": 10.391
+    },
+    {
+      "latency_ms": 10.391
+    },
+    {
+      "latency_ms": 10.391
+    },
+    {
+      "latency_ms": 11.9917
+    },
+    {
+      "latency_ms": 7.7131
+    },
+    {
+      "latency_ms": 8.3217
+    },
+    {
+      "latency_ms": 7.7131
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 13.1574
+    },
+    {
+      "latency_ms": 6.8765
+    },
+    {
+      "latency_ms": 14.1528
+    },
+    {
+      "latency_ms": 14.1528
+    },
+    {
+      "latency_ms": 13.5442
+    },
+    {
+      "latency_ms": 16.3719
+    },
+    {
+      "latency_ms": 11.197
+    },
+    {
+      "latency_ms": 16.3719
+    },
+    {
+      "latency_ms": 16.3719
+    },
+    {
+      "latency_ms": 16.3719
+    },
+    {
+      "latency_ms": 16.3719
+    },
+    {
+      "latency_ms": 16.3719
+    },
+    {
+      "latency_ms": 16.3719
+    },
+    {
+      "latency_ms": 16.3719
+    },
+    {
+      "latency_ms": 16.3719
+    },
+    {
+      "latency_ms": 16.3719
+    },
+    {
+      "latency_ms": 16.3719
+    },
+    {
+      "latency_ms": 15.8304
+    },
+    {
+      "latency_ms": 9.7721
+    },
+    {
+      "latency_ms": 9.7721
+    },
+    {
+      "latency_ms": 8.5541
+    },
+    {
+      "latency_ms": 12.1657
+    },
+    {
+      "latency_ms": 7.5705
+    },
+    {
+      "latency_ms": 7.5705
+    },
+    {
+      "latency_ms": 14.1841
+    },
+    {
+      "latency_ms": 14.1841
+    },
+    {
+      "latency_ms": 7.5705
+    },
+    {
+      "latency_ms": 14.1841
+    },
+    {
+      "latency_ms": 7.5705
+    },
+    {
+      "latency_ms": 14.1841
+    },
+    {
+      "latency_ms": 14.1841
+    },
+    {
+      "latency_ms": 14.1841
+    },
+    {
+      "latency_ms": 7.5705
+    },
+    {
+      "latency_ms": 7.5705
+    },
+    {
+      "latency_ms": 14.1841
+    },
+    {
+      "latency_ms": 12.9661
+    },
+    {
+      "latency_ms": 12.9661
+    },
+    {
+      "latency_ms": 7.7409
+    },
+    {
+      "latency_ms": 13.2155
+    },
+    {
+      "latency_ms": 13.2155
+    },
+    {
+      "latency_ms": 13.8948
+    },
+    {
+      "latency_ms": 13.2155
+    },
+    {
+      "latency_ms": 13.2155
+    },
+    {
+      "latency_ms": 13.2155
+    },
+    {
+      "latency_ms": 10.6904
+    },
+    {
+      "latency_ms": 6.6019
+    },
+    {
+      "latency_ms": 10.6904
+    },
+    {
+      "latency_ms": 10.6904
+    },
+    {
+      "latency_ms": 10.6904
+    },
+    {
+      "latency_ms": 10.6904
+    },
+    {
+      "latency_ms": 10.6904
+    },
+    {
+      "latency_ms": 10.6904
+    },
+    {
+      "latency_ms": 10.6904
+    },
+    {
+      "latency_ms": 10.1428
+    },
+    {
+      "latency_ms": 8.2821
+    },
+    {
+      "latency_ms": 8.2821
+    },
+    {
+      "latency_ms": 8.2821
+    },
+    {
+      "latency_ms": 8.2821
+    },
+    {
+      "latency_ms": 8.2821
+    },
+    {
+      "latency_ms": 8.2821
+    },
+    {
+      "latency_ms": 7.6028
+    },
+    {
+      "latency_ms": 8.7915
+    },
+    {
+      "latency_ms": 12.0037
+    },
+    {
+      "latency_ms": 12.0037
+    },
+    {
+      "latency_ms": 12.0037
+    },
+    {
+      "latency_ms": 12.7341
+    },
+    {
+      "latency_ms": 12.0037
+    },
+    {
+      "latency_ms": 12.0037
+    },
+    {
+      "latency_ms": 12.7341
+    },
+    {
+      "latency_ms": 12.0037
+    },
+    {
+      "latency_ms": 14.6965
+    },
+    {
+      "latency_ms": 14.6965
+    },
+    {
+      "latency_ms": 14.6965
+    },
+    {
+      "latency_ms": 14.6965
+    },
+    {
+      "latency_ms": 14.6965
+    },
+    {
+      "latency_ms": 14.6965
+    },
+    {
+      "latency_ms": 14.6965
+    },
+    {
+      "latency_ms": 10.0986
+    },
+    {
+      "latency_ms": 15.6253
+    },
+    {
+      "latency_ms": 15.0367
+    },
+    {
+      "latency_ms": 15.0367
+    },
+    {
+      "latency_ms": 15.0367
+    },
+    {
+      "latency_ms": 15.0367
+    },
+    {
+      "latency_ms": 15.0367
+    },
+    {
+      "latency_ms": 14.3063
+    },
+    {
+      "latency_ms": 14.3063
+    },
+    {
+      "latency_ms": 15.0786
+    },
+    {
+      "latency_ms": 15.0786
+    },
+    {
+      "latency_ms": 15.0786
+    },
+    {
+      "latency_ms": 15.0786
+    },
+    {
+      "latency_ms": 15.0786
+    },
+    {
+      "latency_ms": 15.0786
+    },
+    {
+      "latency_ms": 15.0786
+    },
+    {
+      "latency_ms": 15.0786
+    },
+    {
+      "latency_ms": 12.6208
+    },
+    {
+      "latency_ms": 12.6208
+    },
+    {
+      "latency_ms": 10.3376
+    },
+    {
+      "latency_ms": 10.3376
+    },
+    {
+      "latency_ms": 10.3376
+    },
+    {
+      "latency_ms": 10.8658
+    },
+    {
+      "latency_ms": 10.3376
+    },
+    {
+      "latency_ms": 9.749
+    },
+    {
+      "latency_ms": 9.0962
+    },
+    {
+      "latency_ms": 9.0962
+    },
+    {
+      "latency_ms": 14.3007
+    },
+    {
+      "latency_ms": 14.3007
+    },
+    {
+      "latency_ms": 14.3007
+    },
+    {
+      "latency_ms": 14.3007
+    },
+    {
+      "latency_ms": 14.3007
+    },
+    {
+      "latency_ms": 14.3007
+    },
+    {
+      "latency_ms": 11.4749
+    },
+    {
+      "latency_ms": 10.8914
+    },
+    {
+      "latency_ms": 10.8914
+    },
+    {
+      "latency_ms": 11.4749
+    },
+    {
+      "latency_ms": 11.4749
+    },
+    {
+      "latency_ms": 10.9467
+    },
+    {
+      "latency_ms": 14.3309
+    },
+    {
+      "latency_ms": 14.3309
+    },
+    {
+      "latency_ms": 12.0726
+    },
+    {
+      "latency_ms": 12.0726
+    },
+    {
+      "latency_ms": 11.6858
+    },
+    {
+      "latency_ms": 12.8348
+    },
+    {
+      "latency_ms": 12.8348
+    },
+    {
+      "latency_ms": 13.5641
+    },
+    {
+      "latency_ms": 12.8348
+    },
+    {
+      "latency_ms": 12.8348
+    },
+    {
+      "latency_ms": 12.8348
+    },
+    {
+      "latency_ms": 12.8348
+    },
+    {
+      "latency_ms": 12.2513
+    },
+    {
+      "latency_ms": 12.2513
+    },
+    {
+      "latency_ms": 12.2513
+    },
+    {
+      "latency_ms": 12.2513
+    },
+    {
+      "latency_ms": 12.0521
+    },
+    {
+      "latency_ms": 15.1334
+    },
+    {
+      "latency_ms": 13.988
+    },
+    {
+      "latency_ms": 13.988
+    },
+    {
+      "latency_ms": 13.3169
+    },
+    {
+      "latency_ms": 12.8177
+    },
+    {
+      "latency_ms": 12.8177
+    },
+    {
+      "latency_ms": 12.1679
+    },
+    {
+      "latency_ms": 12.1679
+    },
+    {
+      "latency_ms": 12.8177
+    },
+    {
+      "latency_ms": 12.1679
+    },
+    {
+      "latency_ms": 12.8177
+    },
+    {
+      "latency_ms": 12.1679
+    },
+    {
+      "latency_ms": 12.8177
+    },
+    {
+      "latency_ms": 12.8177
+    },
+    {
+      "latency_ms": 11.4386
+    },
+    {
+      "latency_ms": 10.7583
+    },
+    {
+      "latency_ms": 10.4974
+    },
+    {
+      "latency_ms": 13.9811
+    },
+    {
+      "latency_ms": 13.9811
+    },
+    {
+      "latency_ms": 14.414
+    },
+    {
+      "latency_ms": 14.414
+    },
+    {
+      "latency_ms": 14.414
+    },
+    {
+      "latency_ms": 14.414
+    },
+    {
+      "latency_ms": 14.414
+    },
+    {
+      "latency_ms": 14.414
+    },
+    {
+      "latency_ms": 13.7642
+    },
+    {
+      "latency_ms": 13.7642
+    },
+    {
+      "latency_ms": 13.7642
+    },
+    {
+      "latency_ms": 13.7642
+    },
+    {
+      "latency_ms": 13.7642
+    },
+    {
+      "latency_ms": 13.7642
+    },
+    {
+      "latency_ms": 10.8836
+    },
+    {
+      "latency_ms": 13.7433
+    },
+    {
+      "latency_ms": 10.2596
+    },
+    {
+      "latency_ms": 10.2596
+    },
+    {
+      "latency_ms": 13.7625
+    },
+    {
+      "latency_ms": 13.2506
+    },
+    {
+      "latency_ms": 13.7625
+    },
+    {
+      "latency_ms": 13.2506
+    },
+    {
+      "latency_ms": 13.7625
+    },
+    {
+      "latency_ms": 13.2506
+    },
+    {
+      "latency_ms": 13.2506
+    },
+    {
+      "latency_ms": 13.2506
+    },
+    {
+      "latency_ms": 13.2506
+    },
+    {
+      "latency_ms": 13.2506
+    },
+    {
+      "latency_ms": 13.7625
+    },
+    {
+      "latency_ms": 13.2506
+    },
+    {
+      "latency_ms": 13.2506
+    },
+    {
+      "latency_ms": 11.6171
+    },
+    {
+      "latency_ms": 11.6171
+    },
+    {
+      "latency_ms": 17.0358
+    },
+    {
+      "latency_ms": 13.6506
+    },
+    {
+      "latency_ms": 13.6506
+    },
+    {
+      "latency_ms": 9.4653
+    },
+    {
+      "latency_ms": 13.6506
+    },
+    {
+      "latency_ms": 13.6506
+    },
+    {
+      "latency_ms": 14.1621
+    },
+    {
+      "latency_ms": 13.6506
+    },
+    {
+      "latency_ms": 13.6506
+    },
+    {
+      "latency_ms": 13.6506
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 13.1387
+    },
+    {
+      "latency_ms": 13.6502
+    },
+    {
+      "latency_ms": 11.903
+    },
+    {
+      "latency_ms": 11.903
+    },
+    {
+      "latency_ms": 12.3923
+    },
+    {
+      "latency_ms": 12.962
+    },
+    {
+      "latency_ms": 12.3504
+    },
+    {
+      "latency_ms": 12.3504
+    },
+    {
+      "latency_ms": 11.6558
+    },
+    {
+      "latency_ms": 12.3504
+    },
+    {
+      "latency_ms": 12.3504
+    },
+    {
+      "latency_ms": 11.6558
+    },
+    {
+      "latency_ms": 12.3504
+    },
+    {
+      "latency_ms": 12.3504
+    },
+    {
+      "latency_ms": 12.3504
+    },
+    {
+      "latency_ms": 12.3504
+    },
+    {
+      "latency_ms": 11.8389
+    },
+    {
+      "latency_ms": 11.1443
+    },
+    {
+      "latency_ms": 13.514
+    },
+    {
+      "latency_ms": 13.514
+    },
+    {
+      "latency_ms": 9.8515
+    },
+    {
+      "latency_ms": 9.2818
+    },
+    {
+      "latency_ms": 9.2515
+    },
+    {
+      "latency_ms": 9.2515
+    },
+    {
+      "latency_ms": 9.2515
+    },
+    {
+      "latency_ms": 8.5569
+    },
+    {
+      "latency_ms": 8.5569
+    },
+    {
+      "latency_ms": 8.5569
+    },
+    {
+      "latency_ms": 13.2337
+    },
+    {
+      "latency_ms": 13.2337
+    },
+    {
+      "latency_ms": 8.5569
+    },
+    {
+      "latency_ms": 13.2337
+    },
+    {
+      "latency_ms": 8.5569
+    },
+    {
+      "latency_ms": 7.9758
+    },
+    {
+      "latency_ms": 10.3124
+    },
+    {
+      "latency_ms": 10.3124
+    },
+    {
+      "latency_ms": 13.861
+    },
+    {
+      "latency_ms": 13.861
+    },
+    {
+      "latency_ms": 11.5933
+    },
+    {
+      "latency_ms": 11.0122
+    },
+    {
+      "latency_ms": 11.6127
+    },
+    {
+      "latency_ms": 11.6127
+    },
+    {
+      "latency_ms": 11.6127
+    },
+    {
+      "latency_ms": 11.6127
+    },
+    {
+      "latency_ms": 11.0122
+    },
+    {
+      "latency_ms": 11.0122
+    },
+    {
+      "latency_ms": 11.6127
+    },
+    {
+      "latency_ms": 13.1912
+    },
+    {
+      "latency_ms": 13.1912
+    },
+    {
+      "latency_ms": 13.1912
+    },
+    {
+      "latency_ms": 12.6499
+    },
+    {
+      "latency_ms": 12.6499
+    },
+    {
+      "latency_ms": 12.9005
+    },
+    {
+      "latency_ms": 6.8558
+    },
+    {
+      "latency_ms": 12.9005
+    },
+    {
+      "latency_ms": 12.9005
+    },
+    {
+      "latency_ms": 12.9005
+    },
+    {
+      "latency_ms": 12.9005
+    },
+    {
+      "latency_ms": 12.3
+    },
+    {
+      "latency_ms": 12.3
+    },
+    {
+      "latency_ms": 12.3
+    },
+    {
+      "latency_ms": 12.3
+    },
+    {
+      "latency_ms": 12.3
+    },
+    {
+      "latency_ms": 12.0979
+    },
+    {
+      "latency_ms": 6.5595
+    },
+    {
+      "latency_ms": 12.0979
+    },
+    {
+      "latency_ms": 6.5595
+    },
+    {
+      "latency_ms": 12.0979
+    },
+    {
+      "latency_ms": 11.0955
+    },
+    {
+      "latency_ms": 13.5387
+    },
+    {
+      "latency_ms": 13.5387
+    },
+    {
+      "latency_ms": 13.5387
+    },
+    {
+      "latency_ms": 13.5387
+    },
+    {
+      "latency_ms": 13.5387
+    },
+    {
+      "latency_ms": 13.5387
+    },
+    {
+      "latency_ms": 13.5387
+    },
+    {
+      "latency_ms": 13.5387
+    },
+    {
+      "latency_ms": 13.5387
+    },
+    {
+      "latency_ms": 13.5387
+    },
+    {
+      "latency_ms": 13.0239
+    },
+    {
+      "latency_ms": 13.0239
+    },
+    {
+      "latency_ms": 16.1336
+    },
+    {
+      "latency_ms": 15.6445
+    },
+    {
+      "latency_ms": 15.1312
+    },
+    {
+      "latency_ms": 15.1312
+    },
+    {
+      "latency_ms": 7.6457
+    },
+    {
+      "latency_ms": 7.6457
+    },
+    {
+      "latency_ms": 12.6457
+    },
+    {
+      "latency_ms": 13.1605
+    },
+    {
+      "latency_ms": 7.6457
+    },
+    {
+      "latency_ms": 7.6457
+    },
+    {
+      "latency_ms": 13.1605
+    },
+    {
+      "latency_ms": 12.6457
+    },
+    {
+      "latency_ms": 12.6457
+    },
+    {
+      "latency_ms": 13.1605
+    },
+    {
+      "latency_ms": 12.6457
+    },
+    {
+      "latency_ms": 7.6457
+    },
+    {
+      "latency_ms": 10.7357
+    },
+    {
+      "latency_ms": 11.7672
+    },
+    {
+      "latency_ms": 10.7357
+    },
+    {
+      "latency_ms": 10.7357
+    },
+    {
+      "latency_ms": 10.7357
+    },
+    {
+      "latency_ms": 10.7357
+    },
+    {
+      "latency_ms": 10.7357
+    },
+    {
+      "latency_ms": 10.7357
+    },
+    {
+      "latency_ms": 10.2224
+    },
+    {
+      "latency_ms": 13.3932
+    },
+    {
+      "latency_ms": 14.1259
+    },
+    {
+      "latency_ms": 13.3932
+    },
+    {
+      "latency_ms": 13.3932
+    },
+    {
+      "latency_ms": 13.6111
+    },
+    {
+      "latency_ms": 13.6111
+    },
+    {
+      "latency_ms": 13.6111
+    },
+    {
+      "latency_ms": 15.3221
+    },
+    {
+      "latency_ms": 15.3221
+    },
+    {
+      "latency_ms": 15.3221
+    },
+    {
+      "latency_ms": 15.3221
+    },
+    {
+      "latency_ms": 15.3221
+    },
+    {
+      "latency_ms": 15.3221
+    },
+    {
+      "latency_ms": 15.3221
+    },
+    {
+      "latency_ms": 15.3221
+    },
+    {
+      "latency_ms": 14.2906
+    },
+    {
+      "latency_ms": 12.9043
+    },
+    {
+      "latency_ms": 12.9043
+    },
+    {
+      "latency_ms": 8.2342
+    },
+    {
+      "latency_ms": 12.8635
+    },
+    {
+      "latency_ms": 12.8635
+    },
+    {
+      "latency_ms": 12.8635
+    },
+    {
+      "latency_ms": 12.8635
+    },
+    {
+      "latency_ms": 6.8371
+    },
+    {
+      "latency_ms": 12.4509
+    },
+    {
+      "latency_ms": 12.4509
+    },
+    {
+      "latency_ms": 12.4509
+    },
+    {
+      "latency_ms": 12.4509
+    },
+    {
+      "latency_ms": 12.4509
+    },
+    {
+      "latency_ms": 12.4509
+    },
+    {
+      "latency_ms": 12.4509
+    },
+    {
+      "latency_ms": 12.4509
+    },
+    {
+      "latency_ms": 11.8813
+    },
+    {
+      "latency_ms": 17.2986
+    },
+    {
+      "latency_ms": 10.8923
+    },
+    {
+      "latency_ms": 17.3451
+    },
+    {
+      "latency_ms": 10.2004
+    },
+    {
+      "latency_ms": 10.2004
+    },
+    {
+      "latency_ms": 10.2004
+    },
+    {
+      "latency_ms": 15.7012
+    },
+    {
+      "latency_ms": 10.0874
+    },
+    {
+      "latency_ms": 10.0874
+    },
+    {
+      "latency_ms": 16.8473
+    },
+    {
+      "latency_ms": 16.8473
+    },
+    {
+      "latency_ms": 16.8473
+    },
+    {
+      "latency_ms": 16.8473
+    },
+    {
+      "latency_ms": 16.8473
+    },
+    {
+      "latency_ms": 16.8473
+    },
+    {
+      "latency_ms": 16.8473
+    },
+    {
+      "latency_ms": 13.1662
+    },
+    {
+      "latency_ms": 13.1662
+    },
+    {
+      "latency_ms": 13.1662
+    },
+    {
+      "latency_ms": 13.1662
+    },
+    {
+      "latency_ms": 16.7592
+    },
+    {
+      "latency_ms": 16.7592
+    },
+    {
+      "latency_ms": 17.701
+    },
+    {
+      "latency_ms": 16.7592
+    },
+    {
+      "latency_ms": 16.0208
+    },
+    {
+      "latency_ms": 17.4489
+    },
+    {
+      "latency_ms": 10.9411
+    },
+    {
+      "latency_ms": 17.4489
+    },
+    {
+      "latency_ms": 10.9411
+    },
+    {
+      "latency_ms": 17.4489
+    },
+    {
+      "latency_ms": 10.9411
+    },
+    {
+      "latency_ms": 10.9411
+    },
+    {
+      "latency_ms": 11.7212
+    },
+    {
+      "latency_ms": 11.7212
+    },
+    {
+      "latency_ms": 17.4489
+    },
+    {
+      "latency_ms": 10.9411
+    },
+    {
+      "latency_ms": 14.3219
+    },
+    {
+      "latency_ms": 7.9978
+    },
+    {
+      "latency_ms": 14.3219
+    },
+    {
+      "latency_ms": 14.3219
+    },
+    {
+      "latency_ms": 13.3801
+    },
+    {
+      "latency_ms": 13.3801
+    },
+    {
+      "latency_ms": 13.3801
+    },
+    {
+      "latency_ms": 13.3801
+    },
+    {
+      "latency_ms": 13.3801
+    },
+    {
+      "latency_ms": 13.3801
+    },
+    {
+      "latency_ms": 12.6
+    },
+    {
+      "latency_ms": 12.6
+    },
+    {
+      "latency_ms": 7.6213
+    },
+    {
+      "latency_ms": 8.2689
+    },
+    {
+      "latency_ms": 7.6213
+    },
+    {
+      "latency_ms": 7.6213
+    },
+    {
+      "latency_ms": 10.8606
+    },
+    {
+      "latency_ms": 9.6451
+    },
+    {
+      "latency_ms": 9.6451
+    },
+    {
+      "latency_ms": 12.4733
+    },
+    {
+      "latency_ms": 12.4733
+    },
+    {
+      "latency_ms": 12.4733
+    },
+    {
+      "latency_ms": 12.4733
+    },
+    {
+      "latency_ms": 12.4733
+    },
+    {
+      "latency_ms": 12.4733
+    },
+    {
+      "latency_ms": 12.4733
+    },
+    {
+      "latency_ms": 12.4733
+    },
+    {
+      "latency_ms": 12.4733
+    },
+    {
+      "latency_ms": 11.7243
+    },
+    {
+      "latency_ms": 11.7243
+    },
+    {
+      "latency_ms": 11.7243
+    },
+    {
+      "latency_ms": 11.0767
+    },
+    {
+      "latency_ms": 12.0758
+    },
+    {
+      "latency_ms": 6.9672
+    },
+    {
+      "latency_ms": 10.6859
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 12.968
+    },
+    {
+      "latency_ms": 15.1765
+    },
+    {
+      "latency_ms": 9.9667
+    },
+    {
+      "latency_ms": 11.4578
+    },
+    {
+      "latency_ms": 12.8864
+    },
+    {
+      "latency_ms": 9.3547
+    },
+    {
+      "latency_ms": 9.3547
+    },
+    {
+      "latency_ms": 12.8864
+    },
+    {
+      "latency_ms": 12.8864
+    },
+    {
+      "latency_ms": 12.8864
+    },
+    {
+      "latency_ms": 12.8864
+    },
+    {
+      "latency_ms": 12.8864
+    },
+    {
+      "latency_ms": 12.8864
+    },
+    {
+      "latency_ms": 12.8864
+    },
+    {
+      "latency_ms": 12.8864
+    },
+    {
+      "latency_ms": 12.8864
+    },
+    {
+      "latency_ms": 12.8864
+    },
+    {
+      "latency_ms": 11.7487
+    },
+    {
+      "latency_ms": 11.4449
+    },
+    {
+      "latency_ms": 11.4449
+    },
+    {
+      "latency_ms": 12.4826
+    },
+    {
+      "latency_ms": 8.4377
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 8.9509
+    },
+    {
+      "latency_ms": 10.5523
+    },
+    {
+      "latency_ms": 10.5523
+    },
+    {
+      "latency_ms": 10.5523
+    },
+    {
+      "latency_ms": 9.9626
+    },
+    {
+      "latency_ms": 10.5126
+    },
+    {
+      "latency_ms": 10.5126
+    },
+    {
+      "latency_ms": 10.5126
+    },
+    {
+      "latency_ms": 10.5126
+    },
+    {
+      "latency_ms": 10.5126
+    },
+    {
+      "latency_ms": 10.5126
+    },
+    {
+      "latency_ms": 10.5126
+    },
+    {
+      "latency_ms": 9.9626
+    },
+    {
+      "latency_ms": 9.9626
+    },
+    {
+      "latency_ms": 10.5126
+    },
+    {
+      "latency_ms": 10.5126
+    },
+    {
+      "latency_ms": 10.5126
+    },
+    {
+      "latency_ms": 11.0048
+    },
+    {
+      "latency_ms": 11.0048
+    },
+    {
+      "latency_ms": 7.9833
+    },
+    {
+      "latency_ms": 8.2883
+    },
+    {
+      "latency_ms": 8.2883
+    },
+    {
+      "latency_ms": 7.5496
+    },
+    {
+      "latency_ms": 7.7383
+    },
+    {
+      "latency_ms": 7.7383
+    },
+    {
+      "latency_ms": 7.7383
+    },
+    {
+      "latency_ms": 7.7383
+    },
+    {
+      "latency_ms": 6.9996
+    },
+    {
+      "latency_ms": 7.7383
+    },
+    {
+      "latency_ms": 7.7383
+    },
+    {
+      "latency_ms": 7.7383
+    },
+    {
+      "latency_ms": 7.7383
+    },
+    {
+      "latency_ms": 7.7383
+    },
+    {
+      "latency_ms": 7.1998
+    },
+    {
+      "latency_ms": 10.1074
+    },
+    {
+      "latency_ms": 10.1074
+    },
+    {
+      "latency_ms": 14.1071
+    },
+    {
+      "latency_ms": 14.1071
+    },
+    {
+      "latency_ms": 13.3684
+    },
+    {
+      "latency_ms": 13.3684
+    },
+    {
+      "latency_ms": 13.3684
+    },
+    {
+      "latency_ms": 13.3684
+    },
+    {
+      "latency_ms": 13.3684
+    },
+    {
+      "latency_ms": 13.3684
+    },
+    {
+      "latency_ms": 13.3684
+    },
+    {
+      "latency_ms": 13.3684
+    },
+    {
+      "latency_ms": 13.3684
+    },
+    {
+      "latency_ms": 13.3684
+    },
+    {
+      "latency_ms": 13.3684
+    },
+    {
+      "latency_ms": 12.3443
+    },
+    {
+      "latency_ms": 13.5211
+    },
+    {
+      "latency_ms": 13.5211
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 10.6808
+    },
+    {
+      "latency_ms": 11.2135
+    },
+    {
+      "latency_ms": 11.0156
+    },
+    {
+      "latency_ms": 11.0156
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 15.3562
+    },
+    {
+      "latency_ms": 12.408
+    },
+    {
+      "latency_ms": 13.875
+    },
+    {
+      "latency_ms": 9.0032
+    },
+    {
+      "latency_ms": 8.375
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 11.8853
+    },
+    {
+      "latency_ms": 13.6318
+    },
+    {
+      "latency_ms": 10.9615
+    },
+    {
+      "latency_ms": 10.9615
+    },
+    {
+      "latency_ms": 9.8773
+    },
+    {
+      "latency_ms": 12.3007
+    },
+    {
+      "latency_ms": 12.3007
+    },
+    {
+      "latency_ms": 9.8773
+    },
+    {
+      "latency_ms": 12.3007
+    },
+    {
+      "latency_ms": 12.3007
+    },
+    {
+      "latency_ms": 12.3007
+    },
+    {
+      "latency_ms": 12.3007
+    },
+    {
+      "latency_ms": 12.3007
+    },
+    {
+      "latency_ms": 12.3007
+    },
+    {
+      "latency_ms": 12.3007
+    },
+    {
+      "latency_ms": 12.3007
+    },
+    {
+      "latency_ms": 12.3007
+    },
+    {
+      "latency_ms": 12.0998
+    },
+    {
+      "latency_ms": 9.8983
+    },
+    {
+      "latency_ms": 9.8983
+    },
+    {
+      "latency_ms": 13.2956
+    },
+    {
+      "latency_ms": 13.2956
+    },
+    {
+      "latency_ms": 10.8722
+    },
+    {
+      "latency_ms": 10.8722
+    },
+    {
+      "latency_ms": 10.8722
+    },
+    {
+      "latency_ms": 10.8722
+    },
+    {
+      "latency_ms": 10.8722
+    },
+    {
+      "latency_ms": 10.8722
+    },
+    {
+      "latency_ms": 10.8722
+    },
+    {
+      "latency_ms": 10.8722
+    },
+    {
+      "latency_ms": 10.8722
+    },
+    {
+      "latency_ms": 10.8722
+    },
+    {
+      "latency_ms": 10.8722
+    },
+    {
+      "latency_ms": 8.7517
+    },
+    {
+      "latency_ms": 13.4846
+    },
+    {
+      "latency_ms": 9.3415
+    },
+    {
+      "latency_ms": 7.6612
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 11.1497
+    },
+    {
+      "latency_ms": 16.3518
+    },
+    {
+      "latency_ms": 15.762
+    },
+    {
+      "latency_ms": 11.6189
+    },
+    {
+      "latency_ms": 11.6189
+    },
+    {
+      "latency_ms": 8.1304
+    },
+    {
+      "latency_ms": 13.8324
+    },
+    {
+      "latency_ms": 13.8324
+    },
+    {
+      "latency_ms": 13.8324
+    },
+    {
+      "latency_ms": 13.8324
+    },
+    {
+      "latency_ms": 13.8324
+    },
+    {
+      "latency_ms": 13.8324
+    },
+    {
+      "latency_ms": 13.8324
+    },
+    {
+      "latency_ms": 13.2496
+    },
+    {
+      "latency_ms": 13.8324
+    },
+    {
+      "latency_ms": 13.8324
+    },
+    {
+      "latency_ms": 13.8324
+    },
+    {
+      "latency_ms": 10.0301
+    },
+    {
+      "latency_ms": 7.5021
+    }
+  ],
+  "started_utc": "2026-11-03T01:25:17.9884836Z",
+  "success_ops_per_second": 1201.4049710293207,
+  "value_bytes": 256,
+  "warmup": 100
+}

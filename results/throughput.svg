@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+<rect width="900" height="430" fill="white"/>
+<text x="30" y="30" font-family="sans-serif" font-size="20">Successful operations per second</text>
+<text x="70" y="360" font-family="sans-serif">read c=1</text>
+<rect x="70" y="289.06" width="44" height="40.94" fill="#2563eb"/>
+<text x="70" y="279.06" font-family="sans-serif" font-size="11">213.87</text>
+<text x="280" y="360" font-family="sans-serif">read c=16</text>
+<rect x="280" y="154.75" width="44" height="175.25" fill="#2563eb"/>
+<text x="280" y="144.75" font-family="sans-serif" font-size="11">915.42</text>
+<text x="490" y="360" font-family="sans-serif">write c=1</text>
+<rect x="490" y="289.47" width="44" height="40.53" fill="#2563eb"/>
+<text x="490" y="279.47" font-family="sans-serif" font-size="11">211.72</text>
+<text x="700" y="360" font-family="sans-serif">write c=16</text>
+<rect x="700" y="100.00" width="44" height="230.00" fill="#2563eb"/>
+<text x="700" y="90.00" font-family="sans-serif" font-size="11">1201.40</text>
+<text x="70" y="400" fill="#2563eb" font-family="sans-serif">operations / second</text>
+</svg>
